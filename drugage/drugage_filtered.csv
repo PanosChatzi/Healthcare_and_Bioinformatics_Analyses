@@ -1,0 +1,107 @@
+﻿compound_name;cas_number;species;strain;dosage;avg_lifespan_change;max_lifespan_change;gender;significance;pubmed_id
+magnesium L-thiazolidine-4-carboxylate;unknown;Drosophila melanogaster;Oregon-R;0.2%;16.0;17.0;Male;S;118043
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.1%;23.0;21.0;Female;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.01%;18.0;2.32;Female;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.1%;14.3;-2.73;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.01%;20.4;12.4;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.1%;-10.0;-9.09;Female;NS;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.01%;2.28;13.63;Female;NS;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.1%;15.0;10.0;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.01%;22.0;17.0;Male;S;119648
+Sodium salicylate;54-21-7;Drosophila melanogaster;Oregon-R;2.0%;-11.94;6.7;Male;S;3921599
+Sodium salicylate;54-21-7;Drosophila melanogaster;Oregon-R;2.0%;-1.46;6.7;Male;NS;3921599
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;32.0;16.0;Male;S;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;32.0;15.0;Male;S;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;25.0;20.0;Female;S;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;30.0;18.0;Female;S;4397875
+Meclofenoxate;51-68-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;28.0;23.0;Female;S;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2.0%;-15.0;17.0;Female;NS;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;Canton S;2.0%;29.0;21.0;Male;S;4397875
+3:1 Mixture: salicyl-salicylic acid + aspirin;unknown;Drosophila melanogaster;Canton S;2.0%;31.0;18.0;Male;S;4397875
+Sodium salicylate;54-21-7;Drosophila melanogaster;Canton S;2.0%;4.0;1.0;Male;NS;4397875
+3:1 Mixture: salicyl-salicylic acid + aspirin;unknown;Drosophila melanogaster;Canton S;2.0%;12.0;43.0;Female;NS;4397875
+Salicylamide;65-45-2;Drosophila melanogaster;Canton S;2.0%;44.0;42.0;Female;S;4397875
+Sodium salicylate;54-21-7;Drosophila melanogaster;Canton S;2.0%;25.0;27.0;Female;S;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;Canton S;2.0%;1.0;3.0;Female;NS;4397875
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2.0%;14.1;15.1;Male;O;9447249
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2.0%;16.8;15.1;Male;S;9447249
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2.0%;26.8;24.5;Male;S;9447249
+LY-294002;154447-36-6;Caenorhabditis elegans;N2;2.0%;9.09;6.7;Unknown;S;10638524
+LY-294002;154447-36-6;Caenorhabditis elegans;N2;2.0%;25.0;6.7;Unknown;S;10638524
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2.0%;23.3;37.0;Male;S;15346199
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2.0%;27.3;37.9;Female;S;15346199
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2.0%;15.6;6.7;Female;O;15695762
+Rhodiola rosea extract;unknown;Drosophila melanogaster;unknown;2.0%;24.0;16.0;Male;S;19634056
+Rhodiola rosea extract;unknown;Drosophila melanogaster;unknown;2.0%;24.0;31.0;Female;S;19634056
+LY-294002;154447-36-6;Drosophila melanogaster;Canton S;2.0%;14.0;22.5;Male;S;20017609
+LY-294002;154447-36-6;Drosophila melanogaster;Canton S;2.0%;14.3;16.3;Female;S;20017609
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;19.0;6.7;Female;S;20645870
+Curcumin;458-37-7;Drosophila melanogaster;Ives;2.0%;18.0;6.7;Male;S;20645870
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;12.4;6.4;Unknown;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;26.8;21.3;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;16.0;14.0;Unknown;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;44.4;8.0;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;55.7;36.0;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2.0%;21.9;8.0;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2.0%;22.1;10.6;Male;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2.0%;32.0;14.9;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2.0%;31.3;22.0;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2.0%;35.6;14.0;Female;S;20738162
+N-acetyl-L-cysteine;616-91-1;Mus musculus;UM-HET3;2.0%;24.0;45.0;Male;S;20819793
+Curcumin;458-37-7;Caenorhabditis elegans;N2;2.0%;39.0;6.7;Unknown;S;21855561
+Rosa damascena extract;unknown;Drosophila melanogaster;B;2.0%;22.4;12.7;Male;S;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;B;2.0%;31.7;13.0;Female;S;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;w1118;2.0%;4.5;7.4;Female;NS;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;w1118;2.0%;14.5;6.4;Male;S;21928072
+Curcumin;458-37-7;Mus musculus;UM-HET3;2.0%;4.5;6.7;Female;NS;22451473
+Curcumin;458-37-7;Mus musculus;UM-HET3;2.0%;2.8;6.7;Male;NS;22451473
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2.0%;12.6;13.0;Female;S;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2.0%;25.8;-5.2;Male;S;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2.0%;6.2;-5.2;Male;NS;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2.0%;15.5;-1.9;Female;S;22653297
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;-9.1;6.7;Unknown;NS;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;-10.9;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;4.2;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;-6.3;6.7;Unknown;NS;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;8.3;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;12.5;6.7;Unknown;S;23044027
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-23.4;6.7;Female;NS;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-10.2;6.7;Male;NS;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;25.0;20.2;Unknown;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-17.0;3.0;Female;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-8.2;25.0;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;25.5;0.0;Female;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;49.0;49.0;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;16.3;25.0;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;46.8;38.0;Female;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Wild 1-A;2.0%;20.3;6.7;Unknown;S;23675008
+N-(3-(aminomethyl)benzyl)acetamidine;180001-34-7;Drosophila melanogaster;Canton S;2.0%;3.0;13.0;Male;S;24096697
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;3.0;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;-1.0;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;9.0;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;4.0;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;2.0;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;19.0;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;34.0;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2.0%;6.0;6.7;Female;O;25173182
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;15.5;10.4;Female;S;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;1.0;5.1;Female;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;5.7;3.1;Male;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;5.3;4.7;Female;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;16.8;14.0;Male;S;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;3.2;2.9;Male;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2.0%;13.9;8.9;Male;S;25628774
+Curcumin;458-37-7;Caenorhabditis elegans;N2;2.0%;22.5;6.7;Unknown;S;25959406
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;5.2;9.5;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;6.1;9.5;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;27.1;23.5;Unknown;S;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;14.6;19.0;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;28.1;17.6;Unknown;S;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2.0%;30.5;47.1;Unknown;S;26039957
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;25.5;0.0;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-17.0;-3.0;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;-23.4;6.7;Female;S;26136617
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;14.6;9.1;Female;S;26136617
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2.0%;8.3;12.0;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2.0%;46.8;38.0;Female;S;26136617
+Cordyceps sinensis oral liquid;unknown;Drosophila melanogaster;Oregon-K;2.0%;32.0;15.4;Male;S;26239097

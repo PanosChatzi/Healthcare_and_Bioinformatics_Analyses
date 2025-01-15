@@ -1,0 +1,124 @@
+id,association,population,variant,gene,pubMed
+4,significant,Finnish,APOC3,APOC3,8018664
+5,significant,Finnish,E2/E3/E4,APOE,8018664
+6,significant,French,I/D,ACE,8136829
+8,significant,Finnish,APOB,APOB,8155090
+9,significant,Finnish,E2/E3/E4,APOE,8155090
+10,significant,Swedish,E2/E3/E4,APOE,8403397
+12,significant,Italian,APOB,APOB,9050915
+13,significant,"English (Cambridge)",I/D,ACE,9105559
+14,significant,"English (Cambridge)",APOC1,APOC1,9105559
+19,significant,Italian,"1-bp guanine deletion/insertion (4G/5G)",SERPINE1,9108791
+24,significant,French,HLA-DRB1,HLA-DRB1,9425225
+28,significant,French,I/D,ACE,9761238
+33,significant,Italian,TH,TH,9887369
+52,significant,"Italian (Northern)",GSTT1,GSTT1,11162685
+53,significant,Russian,T-455C,APOC3,11193221
+54,significant,Finnish,E2/E3/E4,APOE,11213279
+56,significant,French,E2/E3/E4,APOE,11280044
+58,significant,Italian,-174C/G,IL6,11500818
+61,significant,"American (Caucasian)",T1565C,ITGB3,11568114
+70,significant,"Chinese (Uighur in Xinjiang)",E2/E3/E4,APOE,11640949
+79,significant,"Chinese (Uighur, Kazakh and Han in Xinjiang)",I/D,ACE,11773214
+81,significant,Italian,874T/A,IFNG,11857058
+82,significant,Italian,-1082G/A,IL10,11857058
+86,significant,Italian,Q192R,PON1,12082503
+89,significant,Italian,TH,TH,12297342
+91,significant,Danish,I/D,ACE,12547486
+103,significant,Italian,-1082G/A,IL10,12676903
+109,significant,Irish,T2437C,HSPA1L,12714268
+124,significant,French,Q192R,PON1,12889841
+127,significant,"Italian (Southern)",-110A/C,HSPA1A,14501185
+128,significant,"Brazilian of European and Japanese origin",I/D,ACE,14528043
+130,significant,"Ashkenazi Jewish ",I405V,CETP,14559957
+131,significant,"Italian (Southern)",G477T,SIRT3,14580859
+132,significant,"Russian (Novosibirsk)",I/D,ACE,14743603
+133,significant,"Russian (Novosibirsk)",E2/E3/E4,APOE,14743603
+135,significant,"Italian and N. Irish",Q192R,PON1,15050299
+151,significant,Danish,-110A/C,HSPA1A,15190186
+153,significant,"Italian (Sicily)",-107T/C,PON1,15236768
+154,significant,Italian,PPARG,PPARG,15236769
+157,significant,Danish,-174C/G,IL6,15241482
+158,significant,Danish,Q192R,PON1,15241482
+165,significant,Italian,Asp299Gly,TLR4,15547160
+166,significant,"Chinese (Uighur in Xinjiang)",I/D,ACE,15569453
+175,significant,"Ashkenazi Jewish (Jerusalem)","A/G ApaI site",IGF2,15621215
+178,significant,Finnish,-174C/G,IL6,15664628
+179,significant,"Italian (Southern)",VNTR,SIRT3,15676284
+192,significant,"Chinese (Uighur in Xinjiang)",E2/E3/E4,APOE,16086293
+199,significant,Mexican,-308G/A,TNF,16269080
+201,significant,Japanese,-819C/T,IL10,16424284
+214,significant,Danish,GSTT1,GSTT1,16574194
+215,significant,"Ashkenazi Jewish ",rs2542052,APOC3,16602826
+220,significant,Danish,-110A/C,HSPA1A,16804002
+224,significant,"Italian (Southern)",I/D,ACE,16960022
+225,significant,"Italian (Southern)",E2/E3/E4,APOE,16960022
+227,significant,Columbian,I/D,ACE,16971231
+229,significant,"Italian (Sicily)",SERPINE1,SERPINE1,17048073
+231,significant,Greek,E2/E3/E4,APOE,17234815
+232,significant,Italian,rs5744256,IL18,17301041
+235,significant,Italian,KL-VS,KL,19421891
+241,significant,"Ashkenazi Jewish ",TERT,TERT,19915151
+244,significant,Jordanian,rs1501299,ADIPOQ,20201642
+247,significant,"Italian (Palermo)",DRB1*18,HLA-DRB1,20426625
+248,significant,Jordanian,-1082G/A,IL10,20518833
+250,significant,"American (Georgia and Louisiana populations from African and European origin)",APOE,APOE,20569235
+253,significant,"American (Caucasian)",rs7896005,SIRT1,21972126
+255,significant,Greek,rs1799752,ACE,23389097
+256,significant,"American (Caucasian)",rs3803304,AKT1,19489743
+258,significant,"American (Caucasian)",,TP53,20824210
+263,significant,Danish,rs1207362,KL,22406557
+264,significant,Danish,rs2267723,GHRHR,22406557
+265,significant,Danish,rs3842755,INS,22406557
+269,significant,Danish,rs13251813,WRN,22406557
+278,significant,Danish,rs705649,XRCC5,22406557
+280,significant,European,,TP53,23286790
+281,significant,European,,TP53,23286790
+282,significant,European,,TP53,23286790
+283,significant,European,,TP53,23286790
+284,significant,European,rs4420638,APOC1,23286790
+285,significant,Polish,"-11391G > A",ADIPOQ,23339001
+286,significant,"American (Caucasian)",rs2075650,TOMM40,22279548
+287,significant,"American (Caucasian)",D4S1564,TP53,11526246
+289,significant,"Italian (Central)",rs1042522,TP53,23125046
+290,significant,"Italian (Central)",MNS16A,TERT,23562826
+292,significant,Chinese,I/D,ACE,22456784
+294,significant,"Danish, German",rs3803304,AKT1,22929028
+299,significant,"American (Caucasian)",rs9616906,TP53,22533364
+313,significant,"American (Caucasian)",rs13008689,TP53,22533364
+316,significant,"American (Caucasian)",rs10819510,TP53,22533364
+318,significant,"American (Caucasian)",rs3120819,TP53,22533364
+322,significant,"American (Caucasian)",rs1205035,TP53,22533364
+328,significant,"Chinese (Han)",rs189037,ATM,20816691
+333,significant,Italian,rs429358,APOE,21612516
+336,significant,Polish,rs10524523,TOMM40,22008263
+337,significant,"Italian (Southern)",rs660339,UCP2,22216339
+341,significant,"Italian (Southern)",Pro12Ala,PPARG,22985084
+352,significant,Japanese,Mt5178A/C,ND2,9449878
+355,significant,Turkish,rs1800795,IL6,21277639
+359,significant,"Danish, American",rs2075650,TOMM40,23040522
+360,significant,Italian,rs189037,ATM,22960875
+364,significant,"American, English, Irish",rs2075650,TOMM40,22445811
+369,significant,Danish,rs4880,SOD2,19428448
+371,significant,Japanese,14979C,TP53,18545700
+373,significant,"Ashkenazi Jewish, Czechs (Bohemian)",KL-VS,KL,15677572
+374,significant,"Ashkenazi Jewish ",CETP,CETP,15621216
+375,significant,Finnish,,TP53,12483296
+377,significant,Italian,874T/A,IFNG,11772518
+378,significant,"Irish (Belfast)",E2/E3/E4,APOE,11470126
+379,significant,Italian,,TP53,10463944
+380,significant,"Chinese (Han)",E2/E3/E4,APOE,9792194
+381,significant,Japanese,HLA-DQA1,HLA-DQA1,2889033
+382,significant,Japanese,HLA-DRB1,HLA-DRB1,2889033
+383,significant,Irish,T2437C,HSPA1L,12742533
+384,significant,Danish,rs1042522,TP53,18256523
+385,significant,"Italian (Northern)",rs1333049,TP53,20230275
+386,significant,Dutch,rs12778366,SIRT1,23505545
+387,significant,"European (Danish, Finnish, South Italian and Greek)",,TP53,24341918
+389,significant,Spanish,E4,UBE4B,24534555
+392,significant,Spanish,rs1333049,TP53,24163049
+393,significant,European,rs4420638,APOC1,24688116
+395,significant,Japanese,rs1333049,TP53,24163049
+551,significant,Italian,Hinf347,APOA4,9622284
+555,significant,Chinese,E4,UBE4B,24746514
+559,significant,French,E2/E3/E4,APOE,8136829

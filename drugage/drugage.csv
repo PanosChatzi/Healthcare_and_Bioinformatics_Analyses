@@ -1,0 +1,1770 @@
+compound_name;cas_number;species;strain;dosage;avg_lifespan_change;max_lifespan_change;gender;significance;pubmed_id
+Ethanol;64-17-5;Drosophila mojavensis;A350;2,00%;57.65;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A350;2,00%;59.55;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A350;4,00%;28.42;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A350;4,00%;21.75;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A420;2,00%;89.09;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A420;4,00%;88.55;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A420;2,00%;69.19;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A420;4,00%;95.7;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A428;2,00%;21.72;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A428;4,00%;-3.89;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A428;2,00%;66.66;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A428;4,00%;48.71;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A422;2,00%;37.7;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A422;4,00%;47.75;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A422;2,00%;69.04;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A422;4,00%;23.15;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A376;2,00%;101.79;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A376;4,00%;31.53;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A376;2,00%;75.73;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A376;4,00%;36.14;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A429;2,00%;2.51;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A429;4,00%;-1.96;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A429;2,00%;100.38;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A429;4,00%;66.34;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A374;2,00%;58.11;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A374;4,00%;19.75;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A374;2,00%;67.08;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A374;4,00%;29.7;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A572;2,00%;103.88;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A572;4,00%;74.94;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A572;2,00%;52.76;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A572;4,00%;55.38;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A316b;2,00%;105.71;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A316b;4,00%;52.04;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A316b;2,00%;70.77;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A316b;4,00%;42.69;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A514;2,00%;94.33;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A514;4,00%;124.24;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A514;2,00%;92.26;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A514;4,00%;70.77;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A361;2,00%;145.62;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A361;4,00%;119.56;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A361;2,00%;62.6;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A361;4,00%;37.39;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A512d;2,00%;80.71;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A512d;4,00%;57.39;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A512d;2,00%;83.67;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A512d;4,00%;20.88;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A300;2,00%;123.26;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A300;4,00%;71.03;6.7;Female;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A300;2,00%;50.66;6.7;Male;O;13369
+Ethanol;64-17-5;Drosophila mojavensis;A300;4,00%;81.29;6.7;Male;O;13369
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;4.5;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;3.4;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;4.7;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;-2.3;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;-0.85;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;-1.15;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;1.4;6.7;Male;NS;98863
+Diethylhydroxylamine;3710-84-7;Drosophila melanogaster;Oregon-R;2,00%;2.3;6.7;Male;NS;98863
+2-Selenium-bridged ÃŽÂ²-cyclodextrin;unknown;Caenorhabditis elegans;N2;2,00%;7.24;4.76;Unknown;S;101039
+2-Selenium-bridged-beta-cyclodextrin;unknown;Caenorhabditis elegans;N2;2,00%;7.24;4.76;Unknown;S;101039
+2-Selenium-bridged-beta-cyclodextrin;unknown;Caenorhabditis elegans;N2;2,00%;8.69;4.76;Unknown;S;101039
+Calcium gluconate;299-28-5;Drosophila melanogaster;Oregon R;2,00%;-3.7;6.7;Male;O;110607
+Calcium gluconate;299-28-5;Drosophila melanogaster;Oregon R;2,00%;-13.2;6.7;Male;O;110607
+Calcium lactate;814-80-2;Drosophila melanogaster;Oregon R;2,00%;-10.7;6.7;Male;O;110607
+Calcium gluconate;299-28-5;Drosophila melanogaster;Oregon R;2,00%;-56.6;6.7;Male;O;110607
+Calcium lactate;814-80-2;Drosophila melanogaster;Oregon R;2,00%;1.8;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;-9.3;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;-5.2;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;0;6.7;Male;O;110607
+Calcium lactate;814-80-2;Drosophila melanogaster;Oregon R;2,00%;-66.1;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;-1.8;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;3.8;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;5.3;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;9.3;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;12.3;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;20.8;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;14.3;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;-1.9;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;-32.7;6.7;Unknown;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;22.2;6.7;Male;O;110607
+Gluconic acid;133-42-6;Drosophila melanogaster;Oregon R;2,00%;7.2;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;3.6;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;3.6;6.7;Unknown;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;14;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;8;6.7;Unknown;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;12;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;15.5;6.7;Male;O;110607
+Tartaric acid;133-37-9;Drosophila melanogaster;Oregon R;2,00%;0;6.7;Unknown;O;110607
+Tartaric acid;133-37-9;Drosophila melanogaster;Oregon R;2,00%;-72;6.7;Male;O;110607
+Tartaric acid;133-37-9;Drosophila melanogaster;Oregon R;2,00%;6;6.7;Male;O;110607
+Lactic acid;50-21-5;Drosophila melanogaster;Oregon R;2,00%;15.4;6.7;Male;O;110607
+Cupric chloride;7447-39-4;Drosophila melanogaster;Oregon-R;2,00%;-15.1;6.7;Male;S;110607
+sodium L-thiazolidine-4-carboxylate;unknown;Drosophila melanogaster;Oregon-R;0.2%;8;4;Male;S;118043
+magnesium L-thiazolidine-4-carboxylate;unknown;Drosophila melanogaster;Oregon-R;0.2%;16;17;Male;S;118043
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.1%;23;21;Female;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.01%;18;2.32;Female;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.1%;14.3;-2.73;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;D32;0.01%;20.4;12.4;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.1%;-10;-9.09;Female;NS;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.01%;2.28;13.63;Female;NS;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.1%;15;10;Male;S;119648
+2-Ethyl-6-methylpyridin-3-ol hydrochloride;13258-59-8;Drosophila melanogaster;R(1)2 yy/y+Y;0.01%;22;17;Male;S;119648
+Nitrosodimethylurea;13256-32-1;Drosophila melanogaster;D32;0,00%;-2.94;0;Female;NS;119648
+Nitrosodimethylurea;13256-32-1;Drosophila melanogaster;D32;0,00%;-37;-33;Male;S;119648
+Hydrocortisone;50-23-7;Rattus norvegicus;Sprague Dawley;2,00%;-2.08;6.7;Male;NS;132031
+Hydrocortisone;50-23-7;Rattus norvegicus;Sprague Dawley;2,00%;2.12;6.7;Female;NS;132031
+Amethopterin;60388-53-6;Rattus norvegicus;Sprague Dawley;2,00%;-6.25;6.7;Male;NS;132031
+Amethopterin;60388-53-6;Rattus norvegicus;Sprague Dawley;2,00%;7.44;6.7;Female;NS;132031
+Cyclophosphamide;50-18-0;Rattus norvegicus;Sprague Dawley;2,00%;-9.37;6.7;Male;S;132031
+Cyclophosphamide;50-18-0;Rattus norvegicus;Sprague Dawley;2,00%;-9.57;6.7;Female;S;132031
+Atropine;51-55-8;Rattus norvegicus;Sprague Dawley;2,00%;-8.33;6.7;Male;NS;132031
+Atropine;51-55-8;Rattus norvegicus;Sprague Dawley;2,00%;-5.31;6.7;Female;NS;132031
+Pilocarpine;92-13-7;Rattus norvegicus;Sprague Dawley;2,00%;-8.33;6.7;Male;NS;132031
+Pilocarpine;92-13-7;Rattus norvegicus;Sprague Dawley;2,00%;-12.76;6.7;Female;NS;132031
+Nicotine;54-11-5;Rattus norvegicus;Sprague Dawley;2,00%;-11.45;6.7;Male;S;132031
+Nicotine;54-11-5;Rattus norvegicus;Sprague Dawley;2,00%;-8.51;6.7;Female;S;132031
+Phenobarbital;50-06-6;Rattus norvegicus;Sprague Dawley;2,00%;-16.66;6.7;Male;S;132031
+Phenobarbital;50-06-6;Rattus norvegicus;Sprague Dawley;2,00%;-9.57;6.7;Female;S;132031
+Floxuridine;50-91-9;Caenorhabditis elegans;N2;2,00%;38.86;6.7;Hermaphrodite;S;153363
+Floxuridine;50-91-9;Caenorhabditis elegans;N2;2,00%;6.66;6.7;Hermaphrodite;S;153363
+Floxuridine;50-91-9;Caenorhabditis elegans;N2;2,00%;-2.66;6.7;Hermaphrodite;NS;153363
+Floxuridine;50-91-9;Caenorhabditis elegans;N2;2,00%;-18.66;6.7;Hermaphrodite;S;153363
+1-hydrazinophthalazine hydrochloride;304-20-1;Mus musculus;Swiss;0.13%;0;-6.12;Female;O;280718
+1-hydrazinophthalazine hydrochloride;304-20-1;Mus musculus;Swiss;0.13%;-5.06;-1.04;Male;O;280718
+Diiodomethane;75-11-6;Drosophila melanogaster;Oregon-R;2,00%;29.3;6.7;Male;S;412727
+Diiodomethane;75-11-6;Drosophila melanogaster;Oregon-R;2,00%;14.5;6.7;Male;S;412727
+Iodoform;75-47-8;Drosophila melanogaster;Oregon-R;2,00%;-1.9;6.7;Male;O;412727
+Iodoform;75-47-8;Drosophila melanogaster;Oregon-R;2,00%;-15.3;6.7;Male;O;412727
+Iodine;7553-56-2;Drosophila melanogaster;Oregon-R;2,00%;-1.9;6.7;Male;O;412727
+Iodine;7553-56-2;Drosophila melanogaster;Oregon-R;2,00%;-3.8;6.7;Male;O;412727
+Iodine;7553-56-2;Drosophila melanogaster;Oregon-R;2,00%;5.9;6.7;Male;O;412727
+Iodine;7553-56-2;Drosophila melanogaster;Oregon-R;2,00%;1.9;6.7;Male;O;412727
+Iodine;7553-56-2;Drosophila melanogaster;Oregon-R;2,00%;3.9;6.7;Male;O;412727
+Hydrogen iodide;10034-85-2;Drosophila melanogaster;Oregon-R;2,00%;-5.2;6.7;Male;O;412727
+Hydrogen iodide;10034-85-2;Drosophila melanogaster;Oregon-R;2,00%;-6.9;6.7;Male;O;412727
+Butylated hydroxytoluene;128-37-0;Mus musculus;BaLB/c;0.75%;30.1;6.7;Male;S;448040
+Butylated hydroxytoluene;128-37-0;Mus musculus;BaLB/c;0.75%;24.8;6.7;Female;S;448040
+Ginseng;50647-08-0;Mus musculus;LACa;2,00%;-1.59;0;Male;NS;571386
+Ginseng;50647-08-0;Mus musculus;LACa;2,00%;8.87;2.41;Female;NS;571386
+Ginseng;50647-08-0;Mus musculus;LACa;2,00%;-2.39;10.71;Male;NS;571386
+Ginseng;50647-08-0;Mus musculus;LACa;2,00%;2.79;13.7;Female;NS;571386
+Polypeptide Pineal extract;unknown;Rattus norvegicus;unknown;2,00%;25;6.7;Female;S;575333
+Sulfamerazine;127-79-7;Rattus norvegicus;unknown;2,00%;36.21;6.7;Female;S;620944
+Sulfamerazine;127-79-7;Rattus norvegicus;unknown;2,00%;13.84;6.7;Male;S;620944
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;4.57;-1.29;Male;S;689120
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;5.79;-0.77;Male;S;689120
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;5.79;6.73;Male;S;689120
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;0;-1.55;Male;NS;689120
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;4.57;8.03;Male;S;689120
+beta-Aminopropionitrile fumarate;352-96-5;Mus musculus;LAF/J;2,00%;5.48;-0.25;Male;S;689120
+p-fluorophenylalanine;51-65-0;Mus musculus;CBA;2,00%;-10.03;6.7;Male;NS;689376
+p-fluorophenylalanine;51-65-0;Mus musculus;CBA;2,00%;-15.43;6.7;Male;S;689376
+p-fluorophenylalanine;51-65-0;Mus musculus;CBA;2,00%;-5.52;6.7;Male;NS;689376
+Hexachlorophene;70-30-4;Mus musculus;C57BL;2,00%;-9.47;6.7;Female;O;728888
+Hexachlorophene;70-30-4;Mus musculus;C57BL;2,00%;5.88;6.7;Male;O;728888
+Hexachlorophene;70-30-4;Mus musculus;XVII/G;2,00%;-6.57;6.7;Female;O;728888
+Hexachlorophene;70-30-4;Mus musculus;XVII/G;2,00%;8.64;6.7;Male;O;728888
+Citrate;126-44-3;Mytilina brevispina;unknown;2,00%;51.7;6.7;Unknown;O;804507
+Edetate Calcium Disodium;23411-34-9;Mytilina brevispina;unknown;2,00%;49.4;6.7;Unknown;O;804507
+Tartrate;unknown;Mytilina brevispina;unknown;2,00%;43.7;6.7;Unknown;O;804507
+EGTA;67-42-5;Mytilina brevispina;unknown;2,00%;75.9;6.7;Unknown;O;804507
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-5.4;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-1.1;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-4.4;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;2;6.7;Female;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-6.9;6.7;Female;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-12.8;6.7;Female;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-5;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-8.7;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-6.5;6.7;Male;O;819283
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-4.3;6.7;Male;O;819283
+Dehydroascorbic acid;490-83-5;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;819283
+Levodopa;59-92-7;Mus musculus;Swiss;2,00%;28.18;6.7;Male;S;850799
+Levodopa;59-92-7;Mus musculus;Swiss;2,00%;14.95;6.7;Male;S;850799
+Levodopa;59-92-7;Mus musculus;Swiss;2,00%;3.89;6.7;Male;NS;850799
+Diethylnitrosamine;55-18-5;Mesocricetus auratus;ENG:ELA;2,00%;-9.8;6.7;Male;S;943562
+Sodium tungstate;13472-45-2;Rattus norvegicus;Long-Evans;2,00%;-13.37;-15.53;Male;S;1113208
+Sodium tungstate;13472-45-2;Rattus norvegicus;Long-Evans;2,00%;-3.57;-12.18;Female;NS;1113208
+Lead acetate;0301-04-02;Mus musculus;Swiss;2,00%;-4.57;-4.03;Male;NS;1113210
+Lead acetate;0301-04-02;Mus musculus;Swiss;2,00%;15.53;1.27;Female;NS;1113210
+Nickelous acetate;0373-02-04;Mus musculus;Swiss;2,00%;-7.04;1.71;Male;NS;1113210
+Nickelous acetate;0373-02-04;Mus musculus;Swiss;2,00%;5.48;4.99;Female;S;1113210
+Vanadyl sulfate;27774-13-6;Mus musculus;Swiss;2,00%;0.17;18.23;Male;S;1113210
+Vanadyl sulfate;27774-13-6;Mus musculus;Swiss;2,00%;12.43;16.14;Female;S;1113210
+Potassium titanium oxalate;14481-26-6;Mus musculus;Swiss;2,00%;-5.36;5.99;Male;NS;1113210
+Potassium titanium oxalate;14481-26-6;Mus musculus;Swiss;2,00%;-0.36;-4.76;Female;NS;1113210
+Aluminum potassium sulfate;10043-67-1;Mus musculus;Swiss;2,00%;-5.64;7.52;Male;NS;1113210
+Aluminum potassium sulfate;10043-67-1;Mus musculus;Swiss;2,00%;-2.78;-4.29;Female;NS;1113210
+Barium acetate;543-80-6;Mus musculus;Swiss;2,00%;-8.8;-15.94;Male;S;1113210
+Barium acetate;543-80-6;Mus musculus;Swiss;2,00%;7.6;-14.88;Female;NS;1113210
+Beryllium sulfate;13510-49-1;Mus musculus;Swiss;2,00%;-8.97;24.05;Male;NS;1113210
+Beryllium sulfate;13510-49-1;Mus musculus;Swiss;2,00%;10.57;0;Female;NS;1113210
+Mercuric chloride;7487-94-7;Mus musculus;Swiss;2,00%;-10.29;-15.04;Male;NS;1113210
+Mercuric chloride;7487-94-7;Mus musculus;Swiss;2,00%;6.67;-15.18;Female;NS;1113210
+Methylmercury acetate;0108-07-06;Mus musculus;Swiss;2,00%;2.32;-20.69;Male;NS;1113210
+Methylmercury acetate;0108-07-06;Mus musculus;Swiss;2,00%;2.04;-3.59;Female;NS;1113210
+Sodium metaborate;7775-19-1;Mus musculus;Swiss;2,00%;29.85;-7.01;Male;NS;1113210
+Sodium metaborate;7775-19-1;Mus musculus;Swiss;2,00%;-2.94;-9.63;Female;NS;1113210
+Sodium tungstate;13472-45-2;Mus musculus;Swiss;2,00%;40.75;-19.96;Male;S;1113210
+Sodium metaborate;7775-19-1;Mus musculus;Swiss;2,00%;-3.24;-9.45;Female;NS;1113210
+Prednisolone sodium phosphate;125-02-0;Mus musculus;DBA/2J;2,00%;0.38;4.34;Female;NS;1132444
+L-Gulonolactone;1128-23-0;Drosophila melanogaster;Oregon-R;2,00%;-40.3;6.7;Male;S;1756780
+L-Gulonolactone;1128-23-0;Drosophila melanogaster;Oregon-R;2,00%;-9;6.7;Male;S;1756780
+L-Gulonolactone;1128-23-0;Drosophila melanogaster;Oregon-R;2,00%;-4.5;6.7;Male;NS;1756780
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;-3.4;6.7;Male;S;1756780
+Ascorbic acid;50-81-7;Drosophila melanogaster;Oregon-R;2,00%;1.7;6.7;Male;NS;1756780
+Ascorbic acid;50-81-7;Drosophila melanogaster;Swedish C;2,00%;0;6.7;Male;NS;1756780
+Ascorbic acid;50-81-7;Drosophila melanogaster;Swedish C;2,00%;4.4;6.7;Male;NS;1756780
+Xanthine;unknown;Drosophila melanogaster;Oregon-R;2,00%;1.8;6.7;Male;NS;1800135
+L-deprenyl;14611-51-9;Rattus norvegicus;Fischer 344;25%;16.7;17;Unknown;S;2118586
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;-69.2;6.7;Male;S;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;-51.9;6.7;Male;S;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;-21.2;6.7;Male;S;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;3;6.7;Male;S;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;1.5;6.7;Male;S;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;0%;0;6.7;Male;NS;2325439
+Sodium borate;unknown;Drosophila melanogaster;Oregon-R;2,00%;9.5;6.7;Male;S;2325439
+Taurine;107-35-7;Drosophila melanogaster;Oregon-R;2,00%;-0.32;6.7;Male;NS;2495975
+Taurine;107-35-7;Drosophila melanogaster;Oregon-R;2,00%;-0.49;6.7;Male;NS;2495975
+Taurine;107-35-7;Drosophila melanogaster;Oregon-R;2,00%;2.28;6.7;Male;NS;2495975
+Hypotaurine;300-84-5;Drosophila melanogaster;Oregon-R;2,00%;-39.76;6.7;Male;S;2495975
+Hypotaurine;300-84-5;Drosophila melanogaster;Oregon-R;2,00%;2.38;6.7;Male;NS;2495975
+Hypotaurine;300-84-5;Drosophila melanogaster;Oregon-R;2,00%;2.18;6.7;Male;NS;2495975
+Beta-alanine;107-95-9;Drosophila melanogaster;Oregon-R;2,00%;-4.17;6.7;Male;NS;2495975
+Beta-alanine;107-95-9;Drosophila melanogaster;Oregon-R;2,00%;-2.08;6.7;Male;NS;2495975
+Beta-alanine;107-95-9;Drosophila melanogaster;Oregon-R;2,00%;-6.74;6.7;Male;NS;2495975
+Pineal gland-derived polyeptide factors;unknown;Mus musculus;unknown;2,00%;20;6.7;Female;S;2682058
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;-3.2;0;Unknown;NS;2782995
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;-6.3;0;Unknown;NS;2782995
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;2.2;0;Unknown;NS;2782995
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;20.8;0;Unknown;S;2782995
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;0.7;0;Unknown;NS;2782995
+Cortisone;53-06-5;Asplanchna brightwelli;clone 4B61;2,00%;19.3;0;Unknown;S;2782995
+Buthionine Sulfoximine;5072-26-4;Musca Domestica;unknown;2,00%;-30;6.7;Unknown;S;2866912
+2-Oxothiazolidine-4-carboxylate;19771-63-2;Musca Domestica;unknown;2,00%;-24;6.7;Unknown;S;2866912
+Aluminium chloride;7446-70-0;Mus musculus;C57BL/6J;2,00%;-6.93;6.7;Male;NS;3205069
+Ascorbic acid;50-81-7;Caenorhabditis elegans;N2;2,00%;0;6.7;Unknown;NS;3374177
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;3374177
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;NS;3374177
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;22;6.7;Unknown;S;3374177
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;3374177
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;23;6.7;Unknown;S;3374177
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-89.8;-94.9;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-85.3;-78.6;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-58.8;-54.8;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-24.4;-11.2;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-84.1;-78.1;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-8.3;-1.7;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-4.1;-1.4;Male;NS;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-88.5;-91.4;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;1;6;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;13;13.3;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-46.9;-47.2;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;5.3;5.7;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;18;21;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;13.2;12.4;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;-24.2;-8.1;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;23.6;21.9;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;25.4;19.7;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;28.1;27;Female;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;28.5;34.3;Male;S;3721207
+Sodium hypophosphite;7681-53-0;Zaprionus paravittiger;unknown;2,00%;24.9;22.9;Male;S;3721207
+Nordihydroguaiaretic acid;500-38-9;Aedes aegypti;unknown;2,00%;42.7;6.7;Female;S;3749035
+Nordihydroguaiaretic acid;500-38-9;Aedes aegypti;unknown;2,00%;6.7;6.7;Female;NS;3749035
+Nordihydroguaiaretic acid;500-38-9;Aedes aegypti;unknown;2,00%;13.6;6.7;Female;NS;3749035
+Nordihydroguaiaretic acid;500-38-9;Aedes aegypti;unknown;2,00%;64.3;6.7;Male;S;3749035
+Nordihydroguaiaretic acid;500-38-9;Aedes aegypti;unknown;2,00%;11.9;6.7;Male;NS;3749035
+beta-Carotene;7235-40-7;Mus musculus;C57BL/6J;0.5%;5;6.7;Male;NS;3770487
+beta-Carotene;7235-40-7;Mus musculus;C57BL/6J;0.5%;-11.5;6.7;Male;NS;3770487
+Curare;57-94-3;Asplanchna brightwelli;unknown;0,00%;-24;6.7;Unknown;S;3833547
+Curare;57-94-3;Asplanchna brightwelli;unknown;0,00%;26;6.7;Unknown;S;3833547
+Curare;57-94-3;Asplanchna brightwelli;unknown;0,00%;32;6.7;Unknown;S;3833547
+Curare;57-94-3;Asplanchna brightwelli;unknown;0,00%;34;6.7;Unknown;S;3833547
+Ferrous chloride;7758-94-3;Musca domestica;unknown;2,00%;-53.91;6.7;Male;S;3835414
+Aspirin;50-78-2;Drosophila melanogaster;Oregon-R;2,00%;-7.12;6.7;Male;S;3921599
+Aspirin;50-78-2;Drosophila melanogaster;Oregon-R;2,00%;0.62;6.7;Male;NS;3921599
+Aspirin (Bufferin);50-78-2;Drosophila melanogaster;Oregon-R;2,00%;-16.06;6.7;Male;S;3921599
+Aspirin (Bufferin);50-78-2;Drosophila melanogaster;Oregon-R;2,00%;-9.04;6.7;Male;S;3921599
+Aspirin (Bufferin);50-78-2;Drosophila melanogaster;Oregon-R;2,00%;-1.58;6.7;Male;NS;3921599
+2,3-Dihydroxybenzoic acid;303-38-8;Drosophila melanogaster;Oregon-R;2,00%;3.77;6.7;Male;NS;3921599
+3-Dihydroxybenzoic acid;303-38-8;Drosophila melanogaster;Oregon-R;2,00%;2.69;6.7;Male;NS;3921599
+3-Dihydroxybenzoic acid;303-38-8;Drosophila melanogaster;Oregon-R;2,00%;9.33;6.7;Male;S;3921599
+Dimethyl sulfoxide;67-68-5;Drosophila melanogaster;Oregon-R;0.5%;-6.36;6.7;Male;S;3921599
+Dimethyl sulfoxide;67-68-5;Drosophila melanogaster;Oregon-R;0.1%;-5.74;6.7;Male;NS;3921599
+Indomethacin;53-86-1;Drosophila melanogaster;Oregon-R;2,00%;-41.78;6.7;Male;S;3921599
+Indomethacin;53-86-1;Drosophila melanogaster;Oregon-R;2,00%;-11.53;6.7;Male;S;3921599
+Indomethacin;53-86-1;Drosophila melanogaster;Oregon-R;2,00%;-6.99;6.7;Male;NS;3921599
+Phenol;108-95-2;Drosophila melanogaster;Oregon-R;2,00%;-6.59;6.7;Male;S;3921599
+Phenol;108-95-2;Drosophila melanogaster;Oregon-R;2,00%;-4.23;6.7;Male;NS;3921599
+Phenol;108-95-2;Drosophila melanogaster;Oregon-R;2,00%;-3.55;6.7;Male;NS;3921599
+Salicylic acid;69-72-7;Drosophila melanogaster;Oregon-R;2,00%;-13.2;6.7;Male;S;3921599
+Salicylic acid;69-72-7;Drosophila melanogaster;Oregon-R;2,00%;0.85;6.7;Male;NS;3921599
+Sodium salicylate;54-21-7;Drosophila melanogaster;Oregon-R;2,00%;-11.94;6.7;Male;S;3921599
+Sodium salicylate;54-21-7;Drosophila melanogaster;Oregon-R;2,00%;-1.46;6.7;Male;NS;3921599
+Dimethyl sulfoxide;67-68-5;Drosophila melanogaster;Oregon-R;0.5%;-36.25;6.7;Male;S;3921599
+Dimethyl sulfoxide;67-68-5;Drosophila melanogaster;Oregon-R;0.1%;-6.37;6.7;Male;NS;3921599
+Aspirin (Bufferin);50-78-2;Drosophila melanogaster;Oregon-R;2,00%;-2.19;6.7;Male;NS;3921599
+Aspirin (Bufferin);50-78-2;Drosophila melanogaster;Oregon-R;2,00%;0.48;6.7;Male;NS;3921599
+Chlorpromazine chloride;69-09-0;Drosophila melanogaster;Oregon-R;2,00%;-10;6.7;Male;S;3921599
+Chlorpromazine chloride;69-09-0;Drosophila melanogaster;Oregon-R;2,00%;-6.34;6.7;Male;S;3921599
+Chlorpromazine chloride;69-09-0;Drosophila melanogaster;Oregon-R;2,00%;-2.19;6.7;Male;NS;3921599
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;-5.82;6.7;Male;S;3932134
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;-11.64;6.7;Male;S;3932134
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;-20.81;6.7;Male;S;3932134
+Aluminium nitrate;13473-90-0;Drosophila melanogaster;Oregon-R;2,00%;-4.84;6.7;Male;NS;3932134
+Aluminium nitrate;13473-90-0;Drosophila melanogaster;Oregon-R;2,00%;-12.47;6.7;Male;S;3932134
+Aluminium nitrate;13473-90-0;Drosophila melanogaster;Oregon-R;2,00%;-8.93;6.7;Male;S;3932134
+Aluminum sulfate;10043-01-03;Drosophila melanogaster;Oregon-R;2,00%;-2.9;6.7;Male;NS;3932134
+Aluminum sulfate;10043-01-03;Drosophila melanogaster;Oregon-R;2,00%;-10.92;6.7;Male;S;3932134
+Aluminum sulfate;10043-01-03;Drosophila melanogaster;Oregon-R;2,00%;-21.84;6.7;Male;S;3932134
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;-4.99;6.7;Male;NS;3932134
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;11.35;6.7;Male;S;3932134
+Aluminium chloride;7446-70-0;Drosophila melanogaster;Oregon-R;2,00%;-14.45;6.7;Male;S;3932134
+Sodium fluoride;7681-49-4;Drosophila melanogaster;Oregon-R;2,00%;-4.4;6.7;Male;NS;3932134
+Sodium fluoride;7681-49-4;Drosophila melanogaster;Oregon-R;2,00%;-3.4;6.7;Male;NS;3932134
+Ascorbic acid;50-81-7;Musca domestica;unknown;0.5%;-13.88;6.7;Male;NS;4068768
+Ascorbic acid;50-81-7;Musca domestica;unknown;2,00%;-52.17;6.7;Male;S;4068768
+beta-Carotene;7235-40-7;Musca domestica;unknown;0.5%;-8.79;6.7;Male;NS;4068768
+beta-Carotene;7235-40-7;Musca domestica;unknown;2,00%;-2.89;6.7;Male;NS;4068768
+Vitamin E;59-02-9;Musca domestica;unknown;0.5%;-9.25;6.7;Male;NS;4068768
+beta-Carotene;7235-40-7;Musca domestica;unknown;2,00%;-26.08;6.7;Male;S;4068768
+Dimethylaminoethyl p-chlorophenoxyacetate;51-68-3;Rattus norvegicus;Swiss;2,00%;27.3;39.7;Male;S;4147092
+Deuterium Oxide;7789-20-0;Drosophila melanogaster;Oregon-R;50,00%;-65.88;6.7;Male;O;4203023
+Deuterium Oxide;7789-20-0;Drosophila melanogaster;Oregon-R;50,00%;-93.75;6.7;Male;O;4203023
+Deuterium Oxide;7789-20-0;Drosophila melanogaster;Oregon-R;50,00%;-29.41;6.7;Male;O;4203023
+Deuterium Oxide;7789-20-0;Drosophila melanogaster;Oregon-R;50,00%;-24;6.7;Male;O;4203023
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;32;16;Male;S;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;32;15;Male;S;4397875
+Aspirin;50-78-2;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;30;5;Male;S;4397875
+Inositol;87-89-8;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;1;-4;Male;NS;4397875
+Pantothenic acid;79-83-4;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;23;1;Male;NS;4397875
+Polyvinylpyrrotidone;unknown;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;4;-3;Male;NS;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;25;20;Female;S;4397875
+Hydrocortisone acetate;50-03-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;30;18;Female;S;4397875
+Pantothenic acid;79-83-4;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;2;-3;Female;NS;4397875
+Aspirin;50-78-2;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;-14;5;Female;NS;4397875
+Inositol;87-89-8;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;17;9;Female;NS;4397875
+Meclofenoxate;51-68-3;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;28;23;Female;S;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;-15;17;Female;NS;4397875
+Polyvinylpyrrotidone;unknown;Drosophila melanogaster;cross between Canton S females with Oregon RC males;2,00%;7;11;Female;NS;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;Canton S;2,00%;29;21;Male;S;4397875
+Fluprednisolone;53-34-9;Drosophila melanogaster;Canton S;2,00%;16;8;Male;NS;4397875
+Fluprednisolone;53-34-9;Drosophila melanogaster;Canton S;2,00%;15;14;Male;NS;4397875
+3:1 Mixture: salicyl-salicylic acid + aspirin;unknown;Drosophila melanogaster;Canton S;2,00%;31;18;Male;S;4397875
+Sodium salicylate;54-21-7;Drosophila melanogaster;Canton S;2,00%;4;1;Male;NS;4397875
+Acetaminophen;103-90-2;Drosophila melanogaster;Canton S;2,00%;20;5;Male;S;4397875
+Indomethacin;53-86-1;Drosophila melanogaster;Canton S;2,00%;0;5;Male;NS;4397875
+Diphenhydramine HCl;147-24-0;Drosophila melanogaster;Canton S;2,00%;14;9;Male;NS;4397875
+Diphenhydramine HCl;147-24-0;Drosophila melanogaster;Canton S;2,00%;16;6;Male;NS;4397875
+Doxylamine succinate;0562-10-7;Drosophila melanogaster;Canton S;2,00%;4;1;Male;NS;4397875
+Doxylamine succinate;0562-10-7;Drosophila melanogaster;Canton S;2,00%;14;9;Male;NS;4397875
+Tripelennamine HCl;154-69-8;Drosophila melanogaster;Canton S;2,00%;18;13;Male;NS;4397875
+Chlorpheniramine maleate;113-92-8;Drosophila melanogaster;Canton S;2,00%;-1;18;Male;NS;4397875
+Promethazine HCl;58-33-3;Drosophila melanogaster;Canton S;2,00%;-1;0;Male;NS;4397875
+Cyclizine HCl;303-25-3;Drosophila melanogaster;Canton S;2,00%;-8;-13;Male;NS;4397875
+Chloroquine phosphate;unknown;Drosophila melanogaster;Canton S;2,00%;11;14;Male;NS;4397875
+Colchine;54192-66-4;Drosophila melanogaster;Canton S;2,00%;16;0;Male;NS;4397875
+Procaine HCl;51-05-8;Drosophila melanogaster;Canton S;2,00%;3;8;Male;NS;4397875
+Fluprednisolone;53-34-9;Drosophila melanogaster;Canton S;2,00%;23;9;Female;S;4397875
+Fluprednisolone;53-34-9;Drosophila melanogaster;Canton S;2,00%;3;-1;Female;NS;4397875
+Aluminum acetylsalicylate;29825-08-09;Drosophila melanogaster;Canton S;2,00%;12;6;Female;NS;4397875
+3:1 Mixture: salicyl-salicylic acid + aspirin;unknown;Drosophila melanogaster;Canton S;2,00%;12;43;Female;NS;4397875
+Salicylamide;65-45-2;Drosophila melanogaster;Canton S;2,00%;44;42;Female;S;4397875
+Sodium salicylate;54-21-7;Drosophila melanogaster;Canton S;2,00%;25;27;Female;S;4397875
+Dexamethasone sodium phosphate;unknown;Drosophila melanogaster;Canton S;2,00%;1;3;Female;NS;4397875
+Acetaminophen;103-90-2;Drosophila melanogaster;Canton S;2,00%;-10;-6;Female;NS;4397875
+Bismuth sodium tryglycollamate;unknown;Drosophila melanogaster;Canton S;2,00%;13;9;Female;NS;4397875
+Indomethacin;53-86-1;Drosophila melanogaster;Canton S;2,00%;19;33;Female;NS;4397875
+Phenylbutazone;50-33-9;Drosophila melanogaster;Canton S;2,00%;22;38;Female;NS;4397875
+Carbinoxamine maleate;3505-38-2;Drosophila melanogaster;Canton S;2,00%;25;31;Female;NS;4397875
+Doxylamine succinate;0562-10-7;Drosophila melanogaster;Canton S;2,00%;22;10;Female;NS;4397875
+Doxylamine succinate;0562-10-7;Drosophila melanogaster;Canton S;2,00%;4;5;Female;NS;4397875
+Tripelennamine HCl;154-69-8;Drosophila melanogaster;Canton S;2,00%;19;27;Female;NS;4397875
+Cyclizine HCl;303-25-3;Drosophila melanogaster;Canton S;2,00%;6;6;Female;NS;4397875
+Chlorpheniramine maleate;113-92-8;Drosophila melanogaster;Canton S;2,00%;18;3;Female;NS;4397875
+Colchine;54192-66-4;Drosophila melanogaster;Canton S;2,00%;25;14;Female;NS;4397875
+Procaine HCl;51-05-8;Drosophila melanogaster;Canton S;2,00%;18;5;Female;NS;4397875
+Chlorpromazine HCl;69-09-0;Drosophila melanogaster;Canton S;2,00%;19;26;Female;NS;4397875
+Aspirin (Bufferin);50-78-2;Mus musculus;C57BL/6J;2,00%;5;-6.1;Female;NS;4788962
+Aspirin (Bufferin);50-78-2;Mus musculus;C57BL/6J;2,00%;-17.5;-10.1;Female;S;4788962
+Aspirin (Bufferin);50-78-2;Mus musculus;C57BL/6J;2,00%;0.1;-4.8;Female;NS;4788962
+Acetaminophen;103-90-2;Mus musculus;C57BL/6J;2,00%;3.7;-11;Female;NS;4788962
+Dimethylaminoethyl p-chlorophenoxyacetate;51-68-3;Mus musculus;C57BL/6J;2,00%;5.9;-9.6;Female;NS;4788962
+Chlorpromazine;50-53-3;Mus musculus;C57BL/6J;2,00%;-0.2;5.5;Female;NS;4788962
+Chlorpheniramine;132-22-9;Mus musculus;C57BL/6J;2,00%;1.4;-14.7;Female;NS;4788962
+Chlorpheniramine;132-22-9;Mus musculus;C57BL/6J;2,00%;-3.3;7.2;Female;NS;4788962
+Chloroquine;54-05-7;Mus musculus;C57BL/6J;2,00%;-16.8;-10.8;Female;S;4788962
+Chloroquine;54-05-7;Mus musculus;C57BL/6J;2,00%;0.3;-15;Female;NS;4788962
+Ethoxyquin;91-53-2;Mus musculus;C3H;2,00%;18.1;23.34;Male;S;4927196
+Ethoxyquin;91-53-2;Mus musculus;C3H;2,00%;19.9;25.62;Female;S;4927196
+Sodim cyclamate;0139-05-09;Rattus norvegicus;Wistar;2,00%;9.77;-11.28;Male;S;5132583
+Sodium citrate;68-04-2;Philodina acuticornis;Milne;2,00%;2.23;6.7;Unknown;NS;5166382
+Sodium citrate;68-04-2;Philodina acuticornis;Milne;2,00%;-1.26;6.7;Unknown;NS;5166382
+Edetate disodium;139-33-3;Philodina acuticornis;Milne;2,00%;-2.23;6.7;Unknown;NS;5166382
+Disulfiram;97-77-8;Rattus norvegicus;Wistar;2,00%;-21.18;6.7;Male;S;5469789
+Disulfiram;97-77-8;Rattus norvegicus;Wistar;2,00%;-5.08;6.7;Male;NS;5469789
+Diamide;10465-78-8;Musca domestica;unknown;2,00%;-2.91;6.7;Male;NS;6146478
+Paraquat;4685-14-7;Musca domestica;unknown;2,00%;-36.21;6.7;Male;S;6149066
+Diethyldithiocarbamate;392-74-5;Musca domestica;Thuron;2,00%;36;6.7;Male;S;6325831
+Diethyldithiocarbamate;392-74-5;Musca domestica;Thuron;2,00%;45;6.7;Male;S;6325831
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;-17.4;6.7;Male;S;6409707
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;6.5;6.7;Male;NS;6409707
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;6.5;6.7;Male;S;6409707
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;-74;6.7;Male;S;6409707
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;-65.1;6.7;Male;S;6409707
+Cadmium chloride;10108-64-2;Drosophila melanogaster;Oregon-R;2,00%;8.8;6.7;Male;NS;6409707
+Zinc acetate;557-34-65970-45-6;Drosophila melanogaster;Oregon-R;2,00%;-12;6.7;Male;S;6409707
+Zinc acetate;557-34-65970-45-6;Drosophila melanogaster;Oregon-R;2,00%;-4;6.7;Male;NS;6409707
+Zinc acetate;557-34-65970-45-6;Drosophila melanogaster;Oregon-R;2,00%;-6;6.7;Male;S;6409707
+Cupric citrate;866-82-0;Drosophila melanogaster;Oregon-R;2,00%;-16.3;6.7;Male;S;6423450
+Cupric citrate;866-82-0;Drosophila melanogaster;Oregon-R;2,00%;-3.6;6.7;Male;NS;6423450
+Cupric gluconate;0527-09-03;Drosophila melanogaster;Oregon-R;2,00%;-7;6.7;Male;NS;6423450
+Cupric gluconate;0527-09-03;Drosophila melanogaster;Oregon-R;2,00%;-5.5;6.7;Male;NS;6423450
+Cupric lactate;16039-52-4;Drosophila melanogaster;Oregon-R;2,00%;-1.8;6.7;Male;NS;6423450
+Cupric lactate;16039-52-4;Drosophila melanogaster;Oregon-R;2,00%;7;6.7;Male;NS;6423450
+Cupric chloride;7447-39-4;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;6423450
+Cupric sulfate;7758-98-7;Drosophila melanogaster;Oregon-R;2,00%;-10;6.7;Male;S;6423450
+Cupric sulfate;7758-98-7;Drosophila melanogaster;Oregon-R;2,00%;-4;6.7;Male;NS;6423450
+Cupric gluconate;0527-09-03;Drosophila melanogaster;Oregon-R;2,00%;-79.5;6.7;Male;S;6423450
+Cupric gluconate;0527-09-03;Drosophila melanogaster;Oregon-R;2,00%;-12.6;6.7;Male;S;6423450
+Cupric gluconate;0527-09-03;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;6423450
+Cupric lactate;16039-52-4;Drosophila melanogaster;Oregon-R;2,00%;5;6.7;Male;NS;6423450
+Cupric lactate;16039-52-4;Drosophila melanogaster;Oregon-R;2,00%;7.1;6.7;Male;S;6423450
+Cupric lactate;16039-52-4;Drosophila melanogaster;Oregon-R;2,00%;2.5;6.7;Male;NS;6423450
+Cupric formate;544-19-4;Drosophila melanogaster;Oregon-R;2,00%;-2.5;6.7;Male;NS;6423450
+Cupric formate;544-19-4;Drosophila melanogaster;Oregon-R;2,00%;5;6.7;Male;NS;6423450
+Cupric formate;544-19-4;Drosophila melanogaster;Oregon-R;2,00%;7.5;6.7;Male;S;6423450
+Cupric glycinate;13479-54-4;Drosophila melanogaster;Oregon-R;2,00%;-4.4;6.7;Male;S;6423450
+Cupric glycinate;13479-54-4;Drosophila melanogaster;Oregon-R;2,00%;2.2;6.7;Male;NS;6423450
+Vitamin E;59-02-9;Asplanchna brightwelli;unknown;2,00%;21;6.7;Unknown;S;6479253
+Methionine;63-68-3;Mus musculus;C57BL/6J;2,00%;-16.9;6.7;Male;S;6519211
+Methionine;63-68-3;Mus musculus;C57BL/6J;2,00%;0;6.7;Male;NS;6519211
+Ascorbic acid;50-81-7;Mus musculus;C57BL/6J;1,00%;8.6;2.9;Male;S;6519438
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;-3.5;6.7;Female;O;6632988
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;6.9;6.7;Male;O;6632988
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;8.4;6.7;Female;O;6632988
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;11.6;6.7;Female;O;6632988
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;11.1;6.7;Male;O;6632988
+Thyroxin;51-48-9;Rattus norvegicus;Wistar;2,00%;16.1;6.7;Male;O;6632988
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;13;6.7;Female;S;6656301
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;4.3;6.7;Female;S;6656301
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;14.3;6.7;Male;S;6656301
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;26.1;6.7;Female;S;6656301
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;4.8;6.7;Male;S;6656301
+Butylated hydroxytoluene;128-37-0;Drosophila bipectinata;unknown;2,00%;19;6.7;Male;S;6656301
+3-amino-1,2,4-triazole;61-82-5;Musca domestica;unknown;2,00%;0.96;6.7;Male;NS;6661212
+Polypeptide Bovine Thymus extract;unknown;Mus musculus;C3H/Sn;2,00%;28;11.2;Female;S;6752596
+Polypeptide Pineal extract;unknown;Mus musculus;C3H/Sn;2,00%;31;14;Female;S;6752596
+Acetazolamide;59-66-5;Drosophila melanogaster;Oregon-R;2,00%;12.5;6.7;Male;O;6792427
+Acetazolamide;59-66-5;Drosophila melanogaster;Oregon-R;2,00%;2.5;6.7;Male;O;6792427
+Thiazolidine carboxylic acid;16310-13-7;Drosophila melanogaster;Oregon R;2,00%;31;6.7;Unknown;S;6821144
+Vitamin E;59-02-9;Drosophila melanogaster;Oregon R;2,00%;14;6.7;Unknown;S;6821144
+2,4-dinitrophenol;51-28-5;Drosophila melanogaster;Oregon-R;2,00%;12;6.7;Male;S;6821144
+NDGA;500-38-9;Drosophila melanogaster;Oregon-R;2,00%;12;6.7;Male;NS;6821144
+Quercetin;117-39-5;Mus musculus;LACA;2,00%;-5.8;6.7;Female;NS;7140862
+Quercetin;117-39-5;Mus musculus;LACA;2,00%;-14.2;6.7;Male;S;7140862
+Quercetin;117-39-5;Mus musculus;LACA;2,00%;-11.6;6.7;Both;S;7140862
+Vitamin E;59-02-9;Philodina;unknown;2,00%;9.2;0;Unknown;NS;7428854
+Calcium dichloride;10043-52-4;Asplanchna brightwelli;4B61;2,00%;-3.3;-14.28;Unknown;NS;7428860
+Calcium dichloride;10043-52-4;Asplanchna brightwelli;4B61;2,00%;-20.04;0;Unknown;S;7428860
+Magnesium chloride;7786-30-3;Asplanchna brightwelli;4B61;2,00%;-22.9;-14.28;Unknown;S;7428860
+Calcium dichloride;10043-52-4;Asplanchna brightwelli;4B61;2,00%;-26.65;-28.57;Unknown;S;7428860
+Magnesium chloride;7786-30-3;Asplanchna brightwelli;4B61;2,00%;-20.04;-28.57;Unknown;S;7428860
+Edetic acid;60-00-4;Asplanchna brightwelli;4B61;0.25%;-14.97;14.28;Unknown;NS;7428860
+EGTA;67-42-5;Asplanchna brightwelli;4B61;0.25%;-24;-14.28;Unknown;S;7428860
+Sodium citrate;68-04-2;Asplanchna brightwelli;4B61;0.5%;-27.09;-14.28;Unknown;S;7428860
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-71;-47.1;Male;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-20;0;Male;NS;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-65.7;-55.2;Female;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-2.9;17.1;Male;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-2.9;-13.2;Female;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;22.9;15.8;Female;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;14.2;12.9;Male;S;7488181
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;80;19.7;Female;S;7488181
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;1.57;-0.02;Male;NS;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;15.98;4.23;Male;S;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;20.82;8.48;Male;S;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;-7.58;-4.28;Male;NS;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;-14.8;-8.54;Male;S;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;12.8;5.56;Female;NS;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;11.57;9.26;Female;NS;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;24.11;9.26;Female;S;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;-2.87;3.7;Female;NS;7744272
+Methionine;63-68-3;Zaprionus paravittiger;unknown;2,00%;-22.19;-9.26;Female;S;7744272
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;-69.2;6.7;Male;S;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;-51.9;6.7;Male;S;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;0;6.7;Male;NS;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;1.5;6.7;Male;S;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;3;6.7;Male;S;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;9.5;6.7;Male;NS;7889879
+Sodium borate;unknown;Drosophila melanogaster;Oregon R;2,00%;-21.2;6.7;Male;S;7889879
+Sodium borate;unknown;Mus musculus;C57BL/6J;2,00%;0.8;6.7;Male;NS;7889879
+Sodium borate;unknown;Mus musculus;C57BL/6J;2,00%;-2.9;6.7;Male;NS;7889879
+L-deprenyl;14611-51-9;Rattus norvegicus;F344/DuCrj;2,00%;5.6;1;Male;S;8030852
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;3.7;6.7;Male;NS;8137896
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;17;6.7;Male;S;8137896
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;14;6.7;Male;S;8137896
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;7.4;6.7;Male;S;8137896
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;-2;6.7;Male;NS;8137896
+Vitamin A palmitate;79-81-2;Drosophila melanogaster;Oregon-R;2,00%;-60;6.7;Male;S;8137896
+Melatonin;73-31-4;Mus musculus;BALB/c;2,00%;18.1;6.7;Female;S;8290600
+Mercuric chloride;7487-94-7;Drosophila melanogaster;Oregon-R;2,00%;-4.3;6.7;Male;S;8325352
+Mercuric chloride;7487-94-7;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;8325352
+Mercuric chloride;7487-94-7;Drosophila melanogaster;Oregon-R;2,00%;4.3;6.7;Male;S;8325352
+Black tea extract;unknown;Drosophila melanogaster;Oregon R;2,00%;20.2;6.7;Male;S;8326745
+Caffeine;58-08-2;Drosophila melanogaster;Oregon R;2,00%;-10.1;6.7;Male;NS;8326745
+Caffeine;58-08-2;Drosophila melanogaster;Oregon R;2,00%;-3.3;6.7;Male;NS;8326745
+Catechin;154-23-4;Drosophila melanogaster;Oregon R;2,00%;-8.5;6.7;Male;NS;8326745
+Caffeine;58-08-2;Drosophila melanogaster;Oregon R;2,00%;1.7;6.7;Male;NS;8326745
+Catechin;154-23-4;Drosophila melanogaster;Oregon R;2,00%;-5.1;6.7;Male;NS;8326745
+Epicatechin;490-46-0;Drosophila melanogaster;Oregon R;2,00%;1.8;6.7;Male;NS;8326745
+Epicatechin;490-46-0;Drosophila melanogaster;Oregon R;2,00%;3.7;6.7;Male;NS;8326745
+Epicatechin;490-46-0;Drosophila melanogaster;Oregon R;2,00%;7.4;6.7;Male;NS;8326745
+Tannic acid;1401-55-4;Drosophila melanogaster;Oregon R;2,00%;0;6.7;Male;NS;8326745
+Green tea extract;989-51-5;Drosophila melanogaster;Oregon R;2,00%;8.6;6.7;Male;S;8326745
+Tannic acid;1401-55-4;Drosophila melanogaster;Oregon R;2,00%;-2.9;6.7;Male;NS;8326745
+Tea (Camellia sinensis) extract;unknown;Drosophila melanogaster;Oregon R;2,00%;15.7;6.7;Male;S;8326745
+Tea (Camellia sinensis) extract;unknown;Drosophila melanogaster;Oregon R;2,00%;7;6.7;Male;S;8326745
+Tea (Camellia sinensis) extract;unknown;Drosophila melanogaster;Oregon R;2,00%;20.2;6.7;Male;S;8326745
+Tea (Camellia sinensis) extract;unknown;Drosophila melanogaster;Oregon R;2,00%;12.2;6.7;Male;S;8326745
+Methylene blue;61-73-4;Drosophila melanogaster;Oregon-R;2,00%;-49;6.7;Male;S;8350657
+Methylene blue;61-73-4;Drosophila melanogaster;Oregon-R;2,00%;-2;6.7;Male;NS;8350657
+Methylene blue;61-73-4;Drosophila melanogaster;Oregon-R;2,00%;8;6.7;Male;S;8350657
+Methylene blue;61-73-4;Drosophila melanogaster;Oregon-R;2,00%;0;6.7;Male;NS;8350657
+Riboflavin;83-88-5;Drosophila melanogaster;Oregon-R;2,00%;20.5;6.7;Male;S;8350657
+Riboflavin;83-88-5;Drosophila melanogaster;Oregon-R;2,00%;25;6.7;Male;S;8350657
+Riboflavin;83-88-5;Drosophila melanogaster;Oregon-R;2,00%;-6.3;6.7;Male;S;8350657
+Riboflavin;83-88-5;Drosophila melanogaster;Oregon-R;2,00%;-9.5;6.7;Male;S;8350657
+L-deprenyl;14611-51-9;Rattus norvegicus;F344/DuCrj;2,00%;15.1;6.7;Male;S;8423709
+L-deprenyl;14611-51-9;Mus musculus;B6CBAF1;2,00%;7;7.5;Male;NS;8914495
+L-deprenyl;14611-51-9;Mus musculus;B6CBAF1;2,00%;3.9;31.2;Female;NS;8914495
+L-deprenyl;14611-51-9;Mus musculus;B6D2F1;2,00%;2.7;15.3;Male;NS;8914495
+L-deprenyl;14611-51-9;Mus musculus;B6D2F1;2,00%;-0.1;-0.7;Female;NS;8914495
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;2.22;8.77;Male;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;11.8;15.67;Male;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;23.2;11.75;Male;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;-33.7;-16.08;Male;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;-52.15;-26.33;Male;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;4.03;3.66;Female;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;17.19;21.13;Female;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;11.26;15.04;Female;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;-42.97;-20.73;Female;S;8930618
+Vitamin E;59-02-9;Zaprionus paravittiger;unknown;2,00%;-53.96;-34.55;Female;S;8930618
+Propyl gallate;121-79-9;Zaprionus paravittiger;unknown;2,00%;8.7;15.3;Female;S;8950031
+Propyl gallate;121-79-9;Zaprionus paravittiger;unknown;2,00%;15.1;12.2;Male;S;8950031
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-2.5;19.4;Male;NS;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;15;5.97;Male;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;60;25.37;Male;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;7.5;25.37;Male;NS;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-22.5;-40.3;Male;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-5.41;33.9;Female;NS;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;32.43;16.95;Female;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;59.46;22.03;Female;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;16.22;22.73;Female;S;9137816
+Kinetin;525-79-1;Zaprionus paravittiger;unknown;2,00%;-5.41;-8.47;Female;S;9137816
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;-63.8;-53.7;Male;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;-45.9;-40.7;Female;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;-31.7;-46.3;Male;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;1.7;0.8;Female;NS;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;4;1.3;Male;NS;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;-57.2;-55.2;Female;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;7.9;6.9;Female;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;18.4;6.6;Male;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;13.1;4.4;Female;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;27;17.6;Male;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;15.1;27;Female;S;9207858
+Butylated hydroxyanisole;25013-16-5;Zaprionus paravittiger;unknown;2,00%;20.5;2.2;Male;S;9207858
+Ascorbic acid;50-81-7;Paramecium tetraurelia;unknown;2,00%;12.1;6.7;Unknown;O;9406982
+Melatonin;73-31-4;Paramecium tetraurelia;unknown;2,00%;20.8;14.8;Unknown;S;9406982
+Melatonin;73-31-4;Paramecium tetraurelia;unknown;2,00%;10.8;5.1;Unknown;O;9406982
+Melatonin;73-31-4;Paramecium tetraurelia;unknown;2,00%;22.8;20.9;Unknown;S;9406982
+Vitamin E;59-02-9;Paramecium tetraurelia;unknown;2,00%;11.7;17.1;Unknown;O;9406982
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2,00%;14.1;15.1;Male;O;9447249
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2,00%;16.8;15.1;Male;S;9447249
+N-acetyl-L-cysteine;616-91-1;Drosophila melanogaster;Oregon R;2,00%;26.8;24.5;Male;S;9447249
+Ginkgo biloba extract;111-30-8;Rattus norvegicus;Fischer 344;2,00%;17.4;6.7;Male;S;9469738
+Coenzyme Q10;303-98-0;Rattus norvegicus;Sprague-Dawley;2,00%;-8.3;6.7;Both;NS;9584986
+Coenzyme Q10;303-98-0;Mus musculus;C57/B17;2,00%;3.2;6.7;Male;NS;9584986
+N-tert-butyl-alpha-phenylnitrone;3376-24-7;Mus musculus;C57BL/6J;2,00%;3.8;5;Male;S;9614711
+Epithalamin;64082-79-7;Mus musculus;C3H/Sn;2,00%;31;6.7;Female;S;9701766
+Epithalamin;64082-79-7;Drosophila melanogaster;unknown;2,00%;16;6.7;Unknown;S;9701766
+Epithalamin;64082-79-7;Rattus norvegicus;unknown;2,00%;25;6.7;Unknown;S;9701766
+Melatonin;73-31-4;Drosophila melanogaster;Canton S;2,00%;5.5;6.7;Female;S;10100152
+Melatonin;73-31-4;Drosophila melanogaster;Canton S;2,00%;4.8;6.7;Male;S;10100152
+Dehydroepiandrosterone;53-43-0;Mus musculus;C57BL/6;2,00%;2.35;6.7;Male;NS;10197641
+Dehydroepiandrosterone sulfate;651-48-9;Mus musculus;Cross between CB6F1 females and C3D2F1 males;2,00%;-1.11;6.7;Female;NS;10443857
+Dehydroepiandrosterone sulfate;651-48-9;Mus musculus;Cross between CB6F1 females and C3D2F1 males;2,00%;-5.6;6.7;Male;NS;10443857
+LY-294002;154447-36-6;Caenorhabditis elegans;N2;2,00%;9.09;6.7;Unknown;S;10638524
+LY-294002;154447-36-6;Caenorhabditis elegans;N2;2,00%;25;6.7;Unknown;S;10638524
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;8.7;6.7;Unknown;S;10843344
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;19.8;6.7;Unknown;S;10843344
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;2.9;6.7;Unknown;S;10843344
+EUK-134;81065-76-1;Caenorhabditis elegans;N2;2,00%;29;6.7;Unknown;S;10968795
+EUK-134;81065-76-1;Caenorhabditis elegans;N2;2,00%;38;6.7;Unknown;S;10968795
+EUK-134;81065-76-1;Caenorhabditis elegans;N2;2,00%;52;6.7;Unknown;S;10968795
+EUK-134;81065-76-1;Caenorhabditis elegans;N2;2,00%;42;6.7;Unknown;S;10968795
+EUK-134;81065-76-1;Caenorhabditis elegans;N2;2,00%;54;6.7;Unknown;S;10968795
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;29;6.7;Unknown;S;10968795
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;33;6.7;Unknown;S;10968795
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;38;6.7;Unknown;S;10968795
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;3.2;6.7;Female;NS;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;7.1;6.7;Female;NS;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;10.8;6.7;Male;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;11.3;6.7;Male;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;11.8;6.7;Female;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;12.8;6.7;Male;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;13.4;6.7;Female;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;12;6.7;Male;S;11087911
+Epitalon;64082-79-7;Drosophila melanogaster;Canton S;2,00%;16.6;6.7;Male;S;11087911
+Melatonin;73-31-4;Mus musculus;CBA;2,00%;5.4;7.5;Unknown;S;11445596
+L-Glu-L-Trp dipeptide;unknown;Rattus norvegicus;unknown;2,00%;0;10.4;Female;O;11707921
+4-phenylbutyrate;1821-12-1;Drosophila melanogaster;Canton S;2,00%;40;41;Unknown;O;11792861
+D-glucosamine;90-77-7;Saccharomyces cerevisiae;W303R;2,00%;0;6.7;Unknown;NS;11805047
+Melatonin;73-31-4;Drosophila melanogaster;Oregon R;2,00%;14;33;Unknown;S;11909680
+D-glycerol;56-81-5;Saccharomyces cerevisiae;PSY316;2,00%;49.8;6.7;Unknown;O;12391171
+D-xylitol;87-99-0;Saccharomyces cerevisiae;PSY316;2,00%;36.8;6.7;Unknown;O;12391171
+Glucose;2280-44-6;Saccharomyces cerevisiae;PSY316;10,00%;19.8;6.7;Unknown;O;12391171
+Glucose;2280-44-6;Saccharomyces cerevisiae;PSY316;20,00%;63.1;6.7;Unknown;O;12391171
+Sorbitol;50-70-4;Saccharomyces cerevisiae;PSY316;2,00%;29.9;6.7;Unknown;O;12391171
+Carnosine;305-84-0;Drosophila melanogaster;D-32;2,00%;24.3;6.7;Male;S;12447464
+Carnosine;305-84-0;Drosophila melanogaster;D-32;2,00%;19.5;6.7;Male;S;12447464
+Carnosine;305-84-0;Drosophila melanogaster;D-32;2,00%;26.4;6.7;Male;S;12447464
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-83.9;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-83.7;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-81;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-26.5;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-33.1;6.7;Male;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-26.6;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-21.1;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-12.9;6.7;Male;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-10.7;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-6.1;6.7;Unknown;S;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-5.7;6.7;Unknown;NS;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;-0.9;6.7;Unknown;NS;12521609
+EUK-8;53177-12-1;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;12521609
+Butein;487-52-5;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;31;6.7;Unknown;S;12939617
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;60.7;6.7;Unknown;S;12939617
+Fisetin;528-48-3;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;55;6.7;Unknown;S;12939617
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;40;6.7;Unknown;S;12939617
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;39.5;6.7;Unknown;S;12939617
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316AT MATÃŽÂ±;2,00%;70;6.7;Unknown;S;12939617
+Royal Jelly;unknown;Mus musculus;C3H/HeJ;2,00%;23.6;6.7;Male;S;12954483
+Calcium Pantothenate;0137-08-06;Mus musculus;C-57 black;2,00%;18.3;6.7;Male;S;13614445
+Calcium Pantothenate;0137-08-06;Mus musculus;C-57 black;2,00%;20.02;6.7;Female;S;13614445
+2-Mercaptoethylamine Hydrochloride;156-57-0;Mus musculus;C3H;2,00%;26.2;6.7;Female;O;13711616
+2-Mercaptoethylamine Hydrochloride;156-57-0;Mus musculus;Swiss;2,00%;-18.18;6.7;Male;O;13711616
+2'-Diaminodiethyl Disulfide Dihydrochloride;56-17-7;Mus musculus;C3H;2,00%;-12.43;6.7;Female;O;13711616
+2'-Diaminodiethyl Disulfide Dihydrochloride;56-17-7;Mus musculus;Swiss;2,00%;-29.54;6.7;Male;O;13711616
+Cysteine Hydrochloride;10318-18-0;Mus musculus;C3H;2,00%;-10.34;6.7;Female;O;13711616
+Cysteine Hydrochloride;10318-18-0;Mus musculus;Swiss;2,00%;-13.63;6.7;Male;O;13711616
+Hydroxylamine Hydrochloride;1/11/5470;Mus musculus;C3H;2,00%;6.89;6.7;Female;O;13711616
+Hydroxylamine Hydrochloride;1/11/5470;Mus musculus;C3H;2,00%;-10.34;6.7;Female;O;13711616
+Hydroxylamine Hydrochloride;1/11/5470;Mus musculus;Swiss;2,00%;-4.54;6.7;Male;O;13711616
+Hydroxylamine Hydrochloride;1/11/5470;Mus musculus;Swiss;2,00%;-4.53;6.7;Male;O;13711616
+Indole-3-acetic acid;87-51-4;Rattus norvegicus;Wistar;2,00%;-4.06;6.7;Male;NS;13821055
+Indole-3-acetic acid;87-51-4;Rattus norvegicus;Wistar;2,00%;-1.55;6.7;Male;NS;13821055
+L-Thyroxine sodium;55-03-8;Rattus norvegicus;Wistar;2,00%;0.4;6.7;Male;NS;13821057
+L-Thyroxine sodium;55-03-8;Rattus norvegicus;Wistar;2,00%;-6.47;6.7;Male;NS;13821057
+Myleran;55-98-1;Rattus norvegicus;L-strain;2,00%;-16.3;-22.4;Male;O;14204090
+Myleran;55-98-1;Rattus norvegicus;L-strain;2,00%;-12.5;-20.94;Male;O;14204090
+Myleran;55-98-1;Rattus norvegicus;L-strain;2,00%;-20.9;-27.95;Male;O;14204090
+Procaine;59-46-1;Rattus norvegicus;Wistar;2,00%;17.3;6.7;Male;S;14246524
+Procaine;59-46-1;Rattus norvegicus;Wistar;2,00%;21.2;6.7;Male;S;14246524
+Procaine;59-46-1;Rattus norvegicus;Wistar;2,00%;2.64;6.7;Female;NS;14246524
+Procaine;59-46-1;Rattus norvegicus;Wistar;2,00%;7.76;6.7;Female;NS;14246524
+Buformin;692-13-7;Rattus norvegicus;LIO;2,00%;7;5.5;Female;S;14618027
+Phenformin;114-86-3;Mus musculus;C3H/Sn;2,00%;21;26;Female;S;14618027
+Vitamin E;59-02-9;Paramecium tetraurelia;unknown;2,00%;-6.85;6.7;Unknown;NS;14706234
+Vitamin E;59-02-9;Paramecium tetraurelia;unknown;2,00%;28.18;6.7;Unknown;NS;14706234
+Vitamin E;59-02-9;Paramecium tetraurelia;unknown;2,00%;49.51;6.7;Unknown;S;14706234
+Coenzyme Q10;303-98-0;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;14706236
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;14706236
+Coenzyme Q10;303-98-0;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;14706236
+Coenzyme Q10;303-98-0;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;14706236
+Tetrahydrocurcumin;36062-04-01;Mus musculus;Sprague-Dawley;2%;10.6;6.7;Male;S;15247057
+Green tea polyphenols;unknown;Mus musculus;Sprague-Dawley;2,00%;6.4;6.7;Male;S;15247057
+Fisetin;528-48-3;Drosophila melanogaster;Canton S;2,00%;23;6.7;Unknown;S;15254550
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;15254550
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;16;6.7;Male;S;15254550
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;20;6.7;Female;S;15254550
+Alpha-lipoic acid;1077-28-7;Drosophila melanogaster;Canton S;0.01%;12;5;Female;O;15328413
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2,00%;23.3;37;Male;S;15346199
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2,00%;27.3;37.9;Female;S;15346199
+3'-thiodipropionic acid;111-17-1;Asplanchna brightwelli;clone 4B61;2,00%;10;0;Unknown;S;15374519
+Vitamin E;59-02-9;Asplanchna brightwelli;clone 4B61;2,00%;16.4;6.7;Unknown;S;15374519
+Vitamin E;59-02-9;Asplanchna brightwelli;clone 4B61;2,00%;24.5;6.7;Unknown;S;15374519
+3'-thiodipropionic acid;111-17-1;Asplanchna brightwelli;clone 4B61;2,00%;16.4;6.7;Unknown;S;15374519
+4-dinitrophenol;51-28-5;Saccharomyces cerevisiae;W303-1A;2,00%;14.71;6.7;Unknown;S;15383542
+Galactose;10257-28-0;Musca domestica;unknown;2,00%;-27.1;-27.1;Male;S;15547319
+Galactose;10257-28-0;Drosophila melanogaster;unknown;6.5%;-12.6;-12.9;Male;S;15547319
+Galactose;10257-28-0;Musca domestica;unknown;2,00%;-19.8;-21.9;Female;S;15547319
+Galactose;10257-28-0;Drosophila melanogaster;unknown;6.5%;-15.9;-17.1;Female;S;15547319
+Aurintricarboxylic acid;4431-00-9;Drosophila melanogaster;Oregon R;2,00%;15;0;Male;O;15621204
+3-diethyl-2-pyrrolidinone;175698-05-2;Caenorhabditis elegans;N2;2,00%;31;49;Unknown;S;15653505
+Ethosuximide;77-67-8;Caenorhabditis elegans;N2;2,00%;35;37;Unknown;S;15653505
+Ethosuximide;77-67-8;Caenorhabditis elegans;N2;2,00%;14;-2;Unknown;S;15653505
+Ethosuximide;77-67-8;Caenorhabditis elegans;N2;2,00%;17;22;Unknown;S;15653505
+Ethosuximide;77-67-8;Caenorhabditis elegans;N2;2,00%;13;24;Unknown;S;15653505
+Trimethadione;127-48-0;Caenorhabditis elegans;N2;2,00%;24;29;Unknown;S;15653505
+Trimethadione;127-48-0;Caenorhabditis elegans;N2;2,00%;-7;-10;Unknown;NS;15653505
+Trimethadione;127-48-0;Caenorhabditis elegans;N2;2,00%;39;33;Unknown;S;15653505
+Trimethadione;127-48-0;Caenorhabditis elegans;N2;2,00%;41;23;Unknown;S;15653505
+Trimethadione;127-48-0;Caenorhabditis elegans;N2;2,00%;47;57;Unknown;S;15653505
+Resveratrol;501-36-0;Saccharomyces cerevisiae;BY4741;2,00%;0;6.7;Unknown;NS;15684413
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316;2,00%;0;6.7;Unknown;NS;15684413
+Resveratrol;501-36-0;Saccharomyces cerevisiae;W303R;2,00%;0;6.7;Unknown;NS;15684413
+Trichostatin A;58880-19-6;Drosophila melanogaster;Canton S;2,00%;15.6;6.7;Female;O;15695762
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;16256736
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;17.8;6.7;Unknown;S;16256736
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;9.3;6.7;Unknown;S;16256736
+2,4-dinitrophenol;51-28-5;Drosophila melanogaster;Oregon R;8%;20.2;0;Unknown;O;16266268
+Dauer-inducing Pheromone;unknown;Caenorhabditis elegans;N2;2,00%;13.3;6.7;Unknown;O;16377915
+Dauer-inducing Pheromone;unknown;Caenorhabditis elegans;N2;2,00%;26.7;6.7;Unknown;O;16377915
+Crude BB extract (Vaccinium angustifolium);unknown;Caenorhabditis elegans;fem-1(hc17);2,00%;37;6.7;Unknown;S;16441844
+Ampicillin;7177-48-2;Caenorhabditis elegans;fem-1(hc17);2,00%;34;6.7;Unknown;S;16441844
+Resveratrol;501-36-0;Nothobranchius furzeri;Gonarezhou;2,00%;56;59;Unknown;S;16461283
+L-deprenyl;14611-51-9;Rattus norvegicus;F344/DuCrj;2,00%;8.1;6.7;Male;S;16463106
+L-deprenyl;14611-51-9;Rattus norvegicus;F344/DuCrj;2,00%;6.7;6.7;Female;S;16463106
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;-71.57;6.7;Male;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;-67.84;6.7;Female;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;-14.96;6.7;Male;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;-5.46;6.7;Female;NS;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;9.44;6.7;Male;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;17.28;6.7;Female;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;3.94;6.7;Female;S;16591414
+Erythorbic acid;89-65-6;Drosophila melanogaster;Oregon;2,00%;14.22;6.7;Male;S;16591414
+Tamarixetin;603-61-2;Caenorhabditis elegans;unknown;2,00%;28;6.7;Unknown;O;16872777
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;O;16872777
+Ginkgo biloba extract;111-30-8;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;O;16872777
+3,5-dihydroxy-4'-acetoxy-trans-stilbene;unknown;Saccharomyces cerevisiae;PSY316ATÃƒÅ½Ã‚Â±;2,00%;68.2;6.7;Unknown;S;17156081
+3,5-dihydroxy-4'-acetoxy-trans-stilbene;unknown;Saccharomyces cerevisiae;PSY316ATÃƒÅ½Ã‚Â±;2,00%;22.7;6.7;Unknown;S;17156081
+3,5-dihydroxy-4'-acetoxy-trans-stilbene;79338-80-0;Saccharomyces cerevisiae;PSY316ATÃƒÅ½Ã‚Â±;2,00%;51.5;6.7;Unknown;S;17156081
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316ATÃƒÅ½Ã‚Â±;2,00%;41.6;6.7;Unknown;S;17156081
+Resveratrol;501-36-0;Saccharomyces cerevisiae;PSY316ATÃƒÅ½Ã‚Â±;2,00%;33.9;6.7;Unknown;S;17156081
+Alpha-lipoic acid;1077-28-7;Caenorhabditis elegans;N2;2,00%;24.2;14.3;Unknown;S;17156833
+Epigallocatechin-3-gallate;989-51-5;Caenorhabditis elegans;N2;2,00%;4.8;4.8;Unknown;NS;17156833
+Gamma-tocopherol;54-28-4;Caenorhabditis elegans;fem-1(hc17);2,00%;17;6.7;Unknown;S;17169403
+Gamma-tocopherol;54-28-4;Caenorhabditis elegans;fem-1(hc17);2,00%;21;6.7;Unknown;S;17169403
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;20.6;0;Unknown;S;17169403
+Vitamin E;59-02-9;Caenorhabditis elegans;N2;2,00%;16.6;0;Unknown;S;17169403
+Vitamin E;59-02-9;Drosophila melanogaster;Canton S;2,00%;2;6.7;Female;S;17169403
+Pregnenolone;145-13-1;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;S;17266678
+4-dafachronic acid;unknown;Caenorhabditis elegans;N2;2,00%;0;2.6;Unknown;S;17360327
+4-dafachronic acid;unknown;Caenorhabditis elegans;N2;2,00%;16.6;28;Unknown;S;17360327
+Creatine;57-00-1;Mus musculus;C57BL/6J;0.01%;8.9;3.5;Female;S;17416441
+Green tea extract;989-51-5;Drosophila melanogaster;Oregon-R-C;2,00%;7.8;5.3;Unknown;S;17440995
+Green tea extract;989-51-5;Drosophila melanogaster;Oregon-R-C;2,00%;15.7;5.3;Unknown;S;17440995
+Green tea extract;989-51-5;Drosophila melanogaster;Oregon-R-C;2,00%;5.9;5.3;Unknown;S;17440995
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;50.8;29.2;Unknown;S;17460219
+Nicotinamide riboside;1341-23-7;Saccharomyces cerevisiae;BY4741;2,00%;20;6.7;Unknown;NS;17482543
+Tetrahydrocurcumin;36062-04-01;Mus musculus;C57BL/6J;2%;10.7;6.5;Male;S;17516143
+Green tea polyphenols;unknown;Mus musculus;C57BL/6J;2,00%;6.4;1.3;Male;S;17516143
+Enalapril;75847-73-3;Rattus norvegicus;Wistar;2,00%;21.36;6.7;Male;S;17557916
+Losartan;114798-26-4;Rattus norvegicus;Wistar;2,00%;19.32;6.7;Unknown;S;17557916
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;7.4;6.7;Unknown;S;17875315
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;8.1;6.7;Unknown;NS;17875315
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;7.5;6.7;Unknown;S;17875315
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;3.4;6.7;Unknown;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-3.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-3.4;6.7;Female;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;0;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;3.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-7.7;6.7;Female;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-15.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-8.3;6.7;Male;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;2.8;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-13.9;6.7;Male;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-2.8;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-6.8;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-8.3;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;4.5;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;0;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-4.5;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;9.1;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;8.2;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-2;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;2;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-2.8;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-5.6;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-5.6;6.7;Female;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;6.9;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;2.8;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-3.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;3.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-3.7;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;0;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-7.4;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-3;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;15.2;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;9.1;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;12.1;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;3;6.7;Female;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;2.8;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;1.4;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-1.4;6.7;Male;S;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;0;6.7;Male;NS;17875315
+Resveratrol;501-36-0;Drosophila melanogaster;Dahomey;2,00%;-2.8;6.7;Male;NS;17875315
+2-deoxy-D-glucose;Ã¢â‚¬Å½154-17-6;Caenorhabditis elegans;N2;2,00%;12.93;56.49;Unknown;S;17908557
+D-glucose;50-99-7;Caenorhabditis elegans;N2;2,00%;-7.75;-0.9;Unknown;S;17908557
+Lithium Chloride;7447-41-8;Caenorhabditis elegans;N2;2,00%;36;6.7;Unknown;S;17959600
+Rhodiola rosea;unknown;Drosophila melanogaster;unknown;2,00%;11.9;6.7;Female;S;17990971
+Rhodiola rosea;unknown;Drosophila melanogaster;unknown;2,00%;14;6.7;Male;S;17990971
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;19;15;Unknown;S;18024103
+Mianserin;24219-97-4;Caenorhabditis elegans;N2;2,00%;31;6.7;Unknown;S;18033297
+Hydrogen Sulphide;4/6/7783;Caenorhabditis elegans;N2;2,00%;74;6.7;Unknown;S;18077331
+Acticoa powder;unknown;Rattus norvegicus;Wistar-Unilever;2,00%;11;6.7;Unknown;S;18179729
+Myxothiazol;76706-55-3;Caenorhabditis elegans;N2;2,00%;32.3;28.6;Unknown;S;18221415
+FCCP;370-86-5;Caenorhabditis elegans;N2;2,00%;27.8;21.4;Unknown;S;18221415
+Valproic acid;99-66-1;Caenorhabditis elegans;N2;2,00%;35;42;Unknown;S;18248662
+Vitamin E;59-02-9;Mus musculus;C57BL/6J;2,00%;15;6.7;Unknown;S;18257658
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;22;6.7;Unknown;S;18400258
+Reserpine;50-55-5;Caenorhabditis elegans;N2;2,00%;31;6.7;Unknown;S;18409080
+Alpha-lipoic acid;1077-28-7;Rattus norvegicus;BN/SsNOlaHSD;2,00%;0;6.7;Male;NS;18486188
+4-dinitrophenol;51-28-5;Mus musculus;Swiss Webster;2,00%;7.1;6.7;Female;S;18505478
+Caffeine;58-08-2;Saccharomyces cerevisiae;BY4741;2,00%;86;6.7;Unknown;S;18513215
+Eleutherococcus senticosus root extract;unknown;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;18536978
+Rhodiola rosea root extract;unknown;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;S;18536978
+Aspirin;50-78-2;Mus musculus;UM-HET3;2,00%;8;47.2;Male;S;18631321
+Nordihydroguaiaretic acid;500-38-9;Mus musculus;UM-HET3;2,00%;12;6.7;Male;S;18631321
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;18692520
+Alpha-lipoic acid;1077-28-7;Caenorhabditis elegans;N2;2,00%;21;0;Unknown;S;18755260
+Trolox;53188-07-01;Caenorhabditis elegans;N2;2,00%;31;6.7;Unknown;S;18755260
+Taxifolin;480-18-2;Caenorhabditis elegans;N2;2,00%;51;6.7;Unknown;S;18755260
+Propyl gallate;121-79-9;Caenorhabditis elegans;N2;2,00%;12;0;Unknown;S;18755260
+Calcium Pantothenate;0137-08-06;Drosophila melanogaster;Oregon;2,00%;27.8;6.7;Unknown;S;18856647
+Sodium Yeast Nucleate;unknown;Drosophila melanogaster;Oregon;2,00%;20.3;6.7;Unknown;S;18856648
+Biotin;58-85-5;Drosophila melanogaster;Oregon;67%;0;6.7;Unknown;NS;18856648
+Pyridoxine;65-23-6;Drosophila melanogaster;Oregon;2,00%;10.5;6.7;Unknown;S;18856648
+Ethosuximide;77-67-8;Caenorhabditis elegans;N2;2,00%;21.11;6.7;Unknown;S;18949032
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;8;-3;Unknown;NS;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;8;16;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10;-8;Unknown;NS;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;9;0;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10;-2;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;11;25;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;18;29;Unknown;S;19043800
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;11;9;Unknown;S;19043800
+Epigallocatechin-3-gallate;989-51-5;Caenorhabditis elegans;N2;2,00%;12.2;6.7;Unknown;S;19085685
+SkQ1;934826-68-3;Drosophila melanogaster;unknown;2,00%;14;6.7;Unknown;S;19120018
+SkQ1;934826-68-3;Ceriodaphnia affinis;unknown;2,00%;100;6.7;Unknown;S;19120018
+SkQ1;934826-68-3;Podospora anserina;unknown;2,00%;50;6.7;Unknown;S;19120018
+Gliotoxin;67-99-2;Caenorhabditis elegans;N2;2,00%;-9.54;6.7;Unknown;NS;19235201
+Gliotoxin;67-99-2;Caenorhabditis elegans;N2;2,00%;-4.02;6.7;Unknown;NS;19235201
+Gliotoxin;67-99-2;Caenorhabditis elegans;N2;2,00%;-2.01;6.7;Unknown;NS;19235201
+Gliotoxin;67-99-2;Caenorhabditis elegans;N2;2,00%;0.9;6.7;Unknown;NS;19235201
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-25.3;-9.5;Female;S;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-14.5;-14.4;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-5.8;-7.3;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-4.6;-12.4;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-2.8;-4.8;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-3.3;-12.1;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-0.5;3.7;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-1.4;-12;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-2.3;16.7;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;0;-3.4;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;1.3;16.6;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;2.3;5;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;2.6;17.5;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;1.5;10;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;2.5;-7.7;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;3.8;5.7;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;11.2;-1.4;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;8;36.3;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-4.9;5.4;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;2.6;13.9;Male;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;6.2;7.3;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;15.6;22.5;Female;S;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-2.3;26.5;Female;NS;19264118
+Resveratrol;501-36-0;Anastrepha ludens;unknown;2,00%;-5.6;10.2;Female;NS;19264118
+Nicotinamide adenine dinucleotide;53-84-9;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;O;19370397
+Coenzyme Q10;303-98-0;Caenorhabditis elegans;clk-1 (qm30);2,00%;19;6.7;Unknown;S;19428456
+Lamotrigine;84057-84-1;Drosophila melanogaster;Ives;2,00%;17.2;6.7;Female;S;19430925
+Lamotrigine;84057-84-1;Drosophila melanogaster;Ives;2,00%;15.4;6.7;Male;S;19430925
+Carbonylcyanide-3-chlorophenylhydrazone;555-60-2;Caenorhabditis elegans;N2;2,00%;60;6.7;Unknown;S;19442682
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;19501612
+Rapamycin;53123-88-9;Mus musculus;Hybrid of CB6F1(F)& C3D2F1(M);2,00%;13;14;Female;S;19587680
+Juglone;481-39-0;Caenorhabditis elegans;N2;2,00%;29;6.7;Unknown;S;19597959
+Rhodiola rosea extract;unknown;Drosophila melanogaster;unknown;2,00%;24;16;Male;S;19634056
+Rhodiola rosea extract;unknown;Drosophila melanogaster;unknown;2,00%;24;31;Female;S;19634056
+Black tea extract;unknown;Drosophila melanogaster;unknown;2,00%;10;6.7;Unknown;S;19770032
+Oxaloacetate;328-42-7;Caenorhabditis elegans;N2;2,00%;25;13;Unknown;S;19793063
+Spermidine;124-20-9;Drosophila melanogaster;w1118;2,00%;30;6.7;Unknown;S;19801973
+Spermidine;124-20-9;Saccharomyces cerevisiae;unknown;2,00%;233;6.7;Unknown;S;19801973
+Spermidine;124-20-9;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;S;19801973
+Acetic Acid;64-19-7;Caenorhabditis elegans;N2;2,00%;23;6.7;Unknown;S;19837596
+Reishi polysaccharide;unknown;Caenorhabditis elegans;N2;2,00%;35;6.7;Unknown;S;19837596
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-19;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-11;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;0;6.7;Unknown;NS;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;NS;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-9;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-24;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-15;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-20;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-31;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-17;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-28;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-23;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;2,00%;-16;6.7;Unknown;S;19883616
+Glucose;2280-44-6;Caenorhabditis elegans;N2;102,00%;-17;6.7;Unknown;S;19883616
+Glycerol;56-81-5;Caenorhabditis elegans;N2;1,00%;-36;6.7;Unknown;S;19883616
+Glycerol;56-81-5;Caenorhabditis elegans;N2;1,00%;-23;6.7;Unknown;S;19883616
+Sorbitol;50-70-4;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;NS;19883616
+Glycerol;56-81-5;Caenorhabditis elegans;N2;1,00%;-24;6.7;Unknown;S;19883616
+Sorbitol;50-70-4;Caenorhabditis elegans;N2;2,00%;-2;6.7;Unknown;NS;19883616
+LY-294002;154447-36-6;Drosophila melanogaster;Canton S;2,00%;14;22.5;Male;S;20017609
+LY-294002;154447-36-6;Drosophila melanogaster;Canton S;2,00%;14.3;16.3;Female;S;20017609
+Rapamycin;53123-88-9;Drosophila melanogaster;white Dahomey;2,00%;13;6.7;Female;S;20074526
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;40;0;Unknown;S;20090912
+SQDB;unknown;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;20179756
+Metformin;657-24-9;Rattus norvegicus;Fischer 344;2,00%;2.3;2.1;Unknown;NS;20304770
+FCCP;370-86-5;Caenorhabditis elegans;N2;2,00%;17.3;21.6;Unknown;S;20346071
+VI-28;unknown;Mus musculus;C57BL/6J;5%;7.2;6.7;Female;NS;20370440
+VI-28;unknown;Mus musculus;C57BL/6J;5%;8.8;6.7;Female;S;20370440
+VI-28;unknown;Mus musculus;C57BL/6J;5%;13.5;6.7;Male;S;20370440
+VI-28;unknown;Mus musculus;C57BL/6J;5%;14.4;6.7;Male;S;20370440
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;20413530
+Indolepropionamide;unknown;Philodina acuticornis;odiosa;2,00%;137.8;6.7;Unknown;S;20421998
+Indolepropionamide;unknown;Philodina acuticornis;odiosa;2,00%;229.7;6.7;Unknown;S;20421998
+Indolepropionamide;unknown;Philodina acuticornis;odiosa;2,00%;267.9;6.7;Unknown;S;20421998
+Phaseolus vulgaris Extract;unknown;Caenorhabditis elegans;N2;2,00%;13.2;6.7;Unknown;S;20455573
+Trehalose;99-20-7;Caenorhabditis elegans;N2;2,00%;32;6.7;Unknown;S;20477758
+alpha,beta-Trehalose;585-91-1;Caenorhabditis elegans;N2;2,00%;0;6.7;Unknown;NS;20477758
+Sucrose;57-50-1;Caenorhabditis elegans;N2;2,00%;-4;6.7;Unknown;NS;20477758
+Maltose;4482-75-1;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;20477758
+Epicatechin;490-46-0;Caenorhabditis elegans;N2;2,00%;15;11;Unknown;NS;20513639
+Epigallocatechin-3-gallate;989-51-5;Caenorhabditis elegans;N2;2,00%;20;13;Unknown;NS;20513639
+DhHP-6;unknown;Caenorhabditis elegans;N2;2,00%;21;6.7;Unknown;S;20528576
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;BY4741;2,00%;140;6.7;Unknown;NS;20550520
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;BY4741;2,00%;260;6.7;Unknown;NS;20550520
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;CM39L-11A;2,00%;50;6.7;Unknown;NS;20550520
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;CM39L-11A;2,00%;42.8;6.7;Unknown;NS;20550520
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;CM39L-11A;2,00%;62.4;6.7;Unknown;NS;20550520
+L-Carnitine;541-15-1;Saccharomyces cerevisiae;CM39L-11A;2,00%;21.4;6.7;Unknown;NS;20550520
+Marine collagen peptides;unknown;Rattus norvegicus;Sprague-Dawley;0.09%;11;13;Unknown;S;20553190
+Lithocholic acid;434-13-9;Saccharomyces cerevisiae;BY4741;2,00%;100;6.7;Unknown;S;20622262
+Cyclosporin A;59865-13-3;Podospora anserina;s;2,00%;3.32;6.7;Unknown;S;20626725
+Cyclosporin A;59865-13-3;Podospora anserina;s;2,00%;-1.16;6.7;Unknown;NS;20626725
+Cyclosporin A;59865-13-3;Podospora anserina;s;2,00%;1.61;6.7;Unknown;NS;20626725
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;19;6.7;Female;S;20645870
+Curcumin;458-37-7;Drosophila melanogaster;Ives;2,00%;18;6.7;Male;S;20645870
+Carnosine;305-84-0;Drosophila melanogaster;unknown;2,00%;20;6.7;Male;S;20681748
+S,S-trolox-carnosine;unknown;Drosophila melanogaster;unknown;2,00%;16;6.7;Male;S;20681748
+S,S-trolox-carnosine;unknown;Drosophila melanogaster;unknown;2,00%;36;6.7;Female;S;20681748
+Apple polyphenols;unknown;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;20717869
+Procyanidins;20347-71-1;Caenorhabditis elegans;N2;2,00%;12.1;6.7;Unknown;S;20717869
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;12.4;6.4;Unknown;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;26.8;21.3;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;16;14;Unknown;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;44.4;8;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;55.7;36;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2,00%;21.9;8;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2,00%;22.1;10.6;Male;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2,00%;32;14.9;Male;S;20738162
+Stachys lavandulifolia ethanol extract;unknown;Drosophila melanogaster;Oregon R;2,00%;31.3;22;Female;S;20738162
+Stachys lavandulifolia water extract;unknown;Drosophila melanogaster;Oregon R;2,00%;35.6;14;Female;S;20738162
+N-acetyl-L-cysteine;616-91-1;Mus musculus;UM-HET3;2,00%;24;45;Male;S;20819793
+Dimethyl sulfoxide;67-68-5;Caenorhabditis elegans;N2;5%;29;18.6;Unknown;S;20828537
+Branched-Chain Amino Acids;77431-55-1;Mus musculus;B6.129S2;2,00%;12;4.6;Male;S;20889128
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;41;0;Unknown;S;20944427
+Dapsone;80-08-0;Caenorhabditis elegans;N2;2,00%;38.22;6.7;Unknown;S;20974969
+Dapsone;80-08-0;Caenorhabditis elegans;N2;2,00%;42.92;6.7;Unknown;S;20974969
+Dapsone;80-08-0;Caenorhabditis elegans;N2;2,00%;22.11;6.7;Unknown;S;20974969
+Dapsone;80-08-0;Caenorhabditis elegans;N2;2,00%;23.05;6.7;Unknown;S;20974969
+Sodium pyruvate;113-24-6;Caenorhabditis elegans;N2;2,00%;13.9;6.7;Unknown;S;21040400
+Morphine;57-27-2;Drosophila melanogaster;Oregon R;2,00%;3.2;6.7;Unknown;S;21061062
+Morphine;57-27-2;Drosophila melanogaster;Oregon R;2,00%;2.6;6.7;Unknown;S;21061062
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-14.11;-5.26;Female;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-20.49;-12.28;Female;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-31.95;-24.56;Female;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-42.86;-36.84;Female;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-14.53;-7.27;Male;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-18.99;-12.73;Male;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-30.97;-27.27;Male;S;21127834
+Genistein;446-72-0;Drosophila melanogaster;Oregon-R;2,00%;-41.75;-40;Male;S;21127834
+Paraquat;4685-14-7;Caenorhabditis elegans;N2;2,00%;58;48;Unknown;S;21151885
+Dichloroacetate;13425-80-4;Caenorhabditis elegans;N2;2,00%;7.9;13.5;Unknown;S;21153705
+25-Azacoprostane;37106-88-0;Caenorhabditis elegans;N2;2,00%;-34.8;6.7;Unknown;S;21186286
+Glaucarubinone;1259-86-5;Caenorhabditis elegans;N2;2,00%;7.9;9;Unknown;S;21264793
+Diallyl trisulfide;2050-87-5;Caenorhabditis elegans;TJ1060;2,00%;13;6.7;Unknown;S;21296648
+Trielaidin;537-39-3;Caenorhabditis elegans;N2;2,00%;-8.08;6.7;Unknown;NS;21308896
+Triolein;122-32-7;Caenorhabditis elegans;N2;2,00%;0;6.7;Unknown;NS;21308896
+Apple polyphenols;unknown;Drosophila melanogaster;Oregon R;2,00%;10;6.7;Unknown;S;21319854
+Celecoxib;169590-42-5;Caenorhabditis elegans;N2;2,00%;19;6.7;Unknown;S;21348927
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;11;11.5;Unknown;O;21364612
+Palmitic acid;57-10-3;Caenorhabditis elegans;N2;2,00%;-5.55;6.7;Unknown;S;21386131
+Eicosapentaenoic acid;10417-94-4;Caenorhabditis elegans;N2;2,00%;-20.37;6.7;Unknown;S;21386131
+Nectarine;unknown;Drosophila melanogaster;Canton S;0.04%;17.6;2.7;Female;S;21406223
+Thioflavin T;2390-54-7;Caenorhabditis elegans;N2;2,00%;60;78;Unknown;S;21451522
+Oregano and Cranberry extracts;unknown;Anastrepha ludens;Loew;0.02%;43;6.7;Unknown;S;21455602
+Pyrrolidine dithiocarbamate;25769-03-03;Drosophila melanogaster;unknown;2,00%;16;6.7;Female;S;21483034
+Pyrrolidine dithiocarbamate;25769-03-03;Drosophila melanogaster;unknown;2,00%;15;6.7;Male;S;21483034
+Caffeic acid;331-39-5;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;21503726
+Rosmarinic acid;537-15-5;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;21503726
+Epicatechin;490-46-0;Drosophila melanogaster;Canton S;2,00%;42;6.7;Unknown;S;21525262
+Q3M;unknown;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;S;21563825
+Q3'G;unknown;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;21563825
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;21563825
+Resveratrol;501-36-0;Saccharomyces cerevisiae;K6001;2,00%;23.18;6.7;Unknown;S;21597195
+Phloridzin;60-81-1;Saccharomyces cerevisiae;K6001;2,00%;5.79;6.7;Unknown;NS;21597195
+Phloridzin;60-81-1;Saccharomyces cerevisiae;K6001;2,00%;17.39;6.7;Unknown;S;21597195
+Phloridzin;60-81-1;Saccharomyces cerevisiae;K6001;2,00%;33.33;6.7;Unknown;S;21597195
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;12.1;6.7;Unknown;S;21737933
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;15.5;6.7;Unknown;S;21737933
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;32.3;6.7;Unknown;S;21737933
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;37.4;6.7;Unknown;S;21737933
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;1.7;6.7;Unknown;NS;21737933
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;3.9;6.7;Unknown;NS;21737933
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;NS;21737933
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;7.1;6.7;Unknown;S;21737933
+Platinum nanoparticles;4/6/7440;Caenorhabditis elegans;N2;2,00%;18.2;6.7;Unknown;S;21737933
+Ferulsinaic acid;unknown;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;S;21749391
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;11;12;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;2;0;Unknown;NS;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;19;16;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;10;12;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;10;8;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;9;4;Unknown;NS;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;8;7;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;8;14;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;14;8;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;13;18;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;12;24;Unknown;S;21765926
+Naphthazarin;475-38-7;Caenorhabditis elegans;N2;2,00%;22;25;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;15;12;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;10;24;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;15;14;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;2;1;Unknown;NS;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;15;10;Unknown;S;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;9;15;Unknown;NS;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;2;5;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;3;5;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;1;3;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;3;3;Unknown;NS;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;2;-8;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;9;2;Unknown;NS;21765926
+Oxoline;30266-58-1;Caenorhabditis elegans;N2;2,00%;3;12;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;0;0;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;15;5;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;7;3;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;10;2;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;11;6;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;11;13;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;12;12;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-3;-6;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-16;-15;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;1;2;Unknown;NS;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-11;-13;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-23;6.7;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-84;6.7;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-91;6.7;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;12;5;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-86;6.7;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-90;6.7;Unknown;S;21765926
+Plumbagin;481-42-5;Caenorhabditis elegans;N2;2,00%;-81;6.7;Unknown;S;21765926
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10.82;5.11;Unknown;S;21776484
+Isorhamnetin;480-19-3;Caenorhabditis elegans;N2;2,00%;15.92;16.04;Unknown;S;21776484
+Tamarixetin;603-61-2;Caenorhabditis elegans;N2;2,00%;11.46;-2.04;Unknown;S;21776484
+Gallic Acid;149-91-7;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;10.26;6.7;Unknown;S;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;16.17;6.7;Unknown;S;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;17.6;6.7;Unknown;S;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;8.35;6.7;Unknown;S;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;-0.95;6.7;Unknown;NS;21805983
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;-10.64;6.7;Unknown;S;21805983
+Gallic Acid;149-91-7;Caenorhabditis elegans;N2;2,00%;5.34;6.7;Unknown;S;21805983
+Gallic Acid;149-91-7;Caenorhabditis elegans;N2;2,00%;4.89;6.7;Unknown;S;21805983
+Gallic Acid;149-91-7;Caenorhabditis elegans;N2;2,00%;5.03;6.7;Unknown;S;21805983
+Gallic Acid;149-91-7;Caenorhabditis elegans;N2;2,00%;2.06;6.7;Unknown;NS;21805983
+Ellagic acid;476-66-4;Caenorhabditis elegans;N2;2,00%;3.63;6.7;Unknown;NS;21805983
+Ellagic acid;476-66-4;Caenorhabditis elegans;N2;2,00%;8.99;6.7;Unknown;S;21805983
+Ellagic acid;476-66-4;Caenorhabditis elegans;N2;2,00%;0.93;6.7;Unknown;NS;21805983
+Ellagic acid;476-66-4;Caenorhabditis elegans;N2;2,00%;0.57;6.7;Unknown;NS;21805983
+Ellagic acid;476-66-4;Caenorhabditis elegans;N2;2,00%;-5.14;6.7;Unknown;S;21805983
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;8.39;6.7;Unknown;S;21805983
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;8.87;6.7;Unknown;S;21805983
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;5.85;6.7;Unknown;S;21805983
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;7.55;6.7;Unknown;S;21805983
+Catechin;154-23-4;Caenorhabditis elegans;N2;2,00%;6.5;6.7;Unknown;S;21805983
+Rasayana;unknown;Drosophila melanogaster;Oregon-K;2,00%;51.1;6.7;Female;S;21836798
+Rasayana;unknown;Drosophila melanogaster;Oregon-K;2,00%;55;6.7;Male;S;21836798
+Curcumin;458-37-7;Caenorhabditis elegans;N2;2,00%;39;6.7;Unknown;S;21855561
+Protease treated royal jelly;unknown;Caenorhabditis elegans;N2;2,00%;18;44;Unknown;S;21858156
+Astragalus membranaceus polysaccharide;unknown;Caenorhabditis elegans;N2;2,00%;23.8;6.7;Unknown;S;21892924
+Rosa damascena extract;unknown;Drosophila melanogaster;B;2,00%;22.4;12.7;Male;S;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;B;2,00%;31.7;13;Female;S;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;w1118;2,00%;4.5;7.4;Female;NS;21928072
+Rosa damascena extract;unknown;Drosophila melanogaster;w1118;2,00%;14.5;6.4;Male;S;21928072
+Lonidamine;50264-69-2;Caenorhabditis elegans;unknown;2,00%;8;8;Unknown;S;21932172
+Astaxanthin;472-61-7;Caenorhabditis elegans;N2;2,00%;28.6;21.7;Unknown;S;22013497
+Dafadine-A;unknown;Caenorhabditis elegans;N2;2,00%;29;6.7;Unknown;S;22057127
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-2.1;6.7;Male;NS;22083438
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;1;6.7;Male;NS;22083438
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;-1.5;6.7;Female;NS;22083438
+Resveratrol;501-36-0;Drosophila melanogaster;Canton S;2,00%;1.8;6.7;Female;NS;22083438
+Rapamycin;53123-88-9;Mus musculus;129/Sv;2,00%;10.1;9.3;Female;S;22107964
+Acetaminophen;103-90-2;Caenorhabditis elegans;N2;0.1%;48.6;66;Unknown;S;22114686
+Baicalein;491-67-8;Caenorhabditis elegans;N2;1%;36.7;52;Unknown;S;22114686
+Bacitracin;1405-87-4;Caenorhabditis elegans;N2;0.01%;58.5;74;Unknown;S;22114686
+Ciclopirox olamine;41621-49-2;Caenorhabditis elegans;N2;1%;41;52;Unknown;S;22114686
+Fluoranthene;206-44-0;Caenorhabditis elegans;N2;2,00%;-52.82;6.7;Unknown;S;22132200
+Myricetin;529-44-2;Caenorhabditis elegans;N2;2,00%;17.99;21.65;Unknown;S;22155175
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;5.79;18.35;Unknown;S;22155175
+Kaempferol;520-18-3;Caenorhabditis elegans;N2;2,00%;5.63;6.65;Unknown;S;22155175
+Naringenin;480-41-1;Caenorhabditis elegans;N2;2,00%;-1.33;3.35;Unknown;NS;22155175
+Blueberry extract;84082-34-8;Drosophila melanogaster;unknown;2,00%;10;6.7;Unknown;S;22197903
+Reserpine;50-55-5;Caenorhabditis elegans;N2;2,00%;30;6.7;Unknown;S;22212533
+Icariin;489-32-7;Caenorhabditis elegans;N2;2,00%;20.7;6.7;Unknown;S;22216122
+Polyphenols;989-51-5;Mus musculus;C57BL/6J;2,00%;6.3;6.7;Male;S;22265987
+Minocycline;10118-90-8;Drosophila melanogaster;Oregon;2,00%;49;6.7;Male;S;22330257
+Erbstatin analog;63177-57-1;Drosophila melanogaster;Oregon R;2,00%;18;6.7;Unknown;S;22363408
+AG-490;133550-30-8;Drosophila melanogaster;Oregon R;2,00%;17.5;6.7;Unknown;S;22363408
+Everolimus;159351-69-6;Drosophila melanogaster;Oregon R;2,00%;16.6;6.7;Unknown;S;22363408
+HA-1004;91742-10-8;Drosophila melanogaster;Oregon R;2,00%;18;6.7;Unknown;S;22363408
+HA-1077;103745-39-7;Drosophila melanogaster;Oregon R;2,00%;14.5;6.7;Unknown;S;22363408
+Indirubin;479-41-4;Drosophila melanogaster;Oregon R;2,00%;8.2;6.7;Unknown;S;22363408
+PD-98059;167869-21-8;Drosophila melanogaster;Oregon R;2,00%;27;6.7;Unknown;S;22363408
+PP2 AG1879;172889-27-9;Drosophila melanogaster;Oregon R;2,00%;22.8;6.7;Unknown;S;22363408
+Quercetin dihydrate;6151-25-3;Drosophila melanogaster;Oregon R;2,00%;23;6.7;Unknown;S;22363408
+KN-93;139298-40-1;Drosophila melanogaster;Oregon R;2,00%;20;6.7;Unknown;S;22363408
+SB203580;896734-47-7;Drosophila melanogaster;Oregon R;2,00%;30.3;6.7;Unknown;S;22363408
+SP600125;129-56-6;Drosophila melanogaster;Oregon R;2,00%;23.5;6.7;Unknown;S;22363408
+Tyrphostin 1;2826-26-8;Drosophila melanogaster;Oregon R;2,00%;19;6.7;Unknown;S;22363408
+Tyrphostin 9;10537-47-0;Drosophila melanogaster;Oregon R;2,00%;17.3;6.7;Unknown;S;22363408
+Tyrphostin AG 1295;71897-07-09;Drosophila melanogaster;Oregon R;2,00%;22.5;6.7;Unknown;S;22363408
+Tyrphostin AG 1478;175178-82-2;Drosophila melanogaster;Oregon R;2,00%;19.5;6.7;Unknown;S;22363408
+Staurosporine;62996-74-1;Drosophila melanogaster;Oregon R;2,00%;34.8;6.7;Unknown;S;22363408
+Damnacanthus officinarum leaf extract;unknown;Caenorhabditis elegans;N2;2,00%;18.6;6.7;Unknown;S;22370553
+Damnacanthus officinarum root extract;unknown;Caenorhabditis elegans;N2;2,00%;30.3;6.7;Unknown;S;22370553
+L-theanine;3081-61-6;Caenorhabditis elegans;N2;2,00%;3.6;4.4;Unknown;S;22422488
+Ferric ammonium citrate;1185-57-5;Caenorhabditis elegans;N2;2,00%;-2.13;6.7;Unknown;NS;22445852
+Ferric ammonium citrate;1185-57-5;Caenorhabditis elegans;N2;2,00%;-23.16;6.7;Unknown;S;22445852
+Ferric ammonium citrate;1185-57-5;Caenorhabditis elegans;N2;2,00%;0.53;6.7;Unknown;NS;22445852
+Deferoxamine;70-51-9;Caenorhabditis elegans;N2;2,00%;-4.45;6.7;Unknown;NS;22445852
+Curcumin;458-37-7;Mus musculus;UM-HET3;2,00%;4.5;6.7;Female;NS;22451473
+Curcumin;458-37-7;Mus musculus;UM-HET3;2,00%;2.8;6.7;Male;NS;22451473
+Green tea extract;989-51-5;Mus musculus;UM-HET3;2,00%;6.6;6.7;Female;NS;22451473
+Medium-chain triglyceride oil;unknown;Mus musculus;UM-HET3;2,00%;-1.1;6.7;Male;NS;22451473
+Medium-chain triglyceride oil;unknown;Mus musculus;UM-HET3;2,00%;1.8;6.7;Female;NS;22451473
+Resveratrol;501-36-0;Mus musculus;UM-HET3;2,00%;3.4;6.7;Unknown;NS;22451473
+Oxaloacetate;328-42-7;Mus musculus;UM-HET3;2,00%;2.7;6.7;Female;NS;22451473
+Oxaloacetate;328-42-7;Mus musculus;UM-HET3;2,00%;4.2;6.7;Male;NS;22451473
+Resveratrol;501-36-0;Mus musculus;UM-HET3;2,00%;4.7;6.7;Female;NS;22451473
+Green tea extract;989-51-5;Mus musculus;UM-HET3;2,00%;4.6;6.7;Male;NS;22451473
+Proline;37159-97-0;Caenorhabditis elegans;N2;2,00%;5.8;6.7;Unknown;S;22482728
+Astaxanthin;472-61-7;Caenorhabditis elegans;N2;2,00%;20.8;14.6;Unknown;S;22484623
+Gamma-tocopherol;54-28-4;Caenorhabditis elegans;N2;2,00%;10.1;12.3;Unknown;S;22484623
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;8.6;3.5;Unknown;S;22484623
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;12;11;Unknown;S;22484623
+Tocotrienol;6829-55-6;Caenorhabditis elegans;N2;2,00%;21;18;Unknown;S;22484623
+Hesperidin;520-26-3;Saccharomyces cerevisiae;BY4741;2,00%;15.4;6.7;Unknown;S;22484922
+Hesperidin;520-26-3;Saccharomyces cerevisiae;BY4741;2,00%;36.9;6.7;Unknown;S;22484922
+Hesperidin;520-26-3;Saccharomyces cerevisiae;BY4741;2,00%;4.6;6.7;Unknown;S;22484922
+Resveratrol;501-36-0;Saccharomyces cerevisiae;BY4741;2,00%;33.8;6.7;Unknown;S;22484922
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;-7;6.7;Unknown;S;22493606
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;2;6.7;Unknown;NS;22493606
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;22493606
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;-11;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;22493606
+Quercetin;117-39-5;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;19;6.7;Unknown;S;22493606
+Tannic acid;1401-55-4;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;22493606
+Olive Oil;92044-99-0;Rattus norvegicus;unknown;2,00%;18;6.7;Unknown;S;22498298
+C60;99685-96-8;Rattus norvegicus;unknown;2,00%;90;6.7;Unknown;S;22498298
+Proanthocycanidin;unknown;Caenorhabditis elegans;N2;2,00%;36.6;6.7;Unknown;S;22509764
+1,2,4-triazolo[1,5-a]pyridine;274-85-1;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;22509764
+HF-HQ;unknown;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;S;22529848
+HuminFeed;unknown;Caenorhabditis elegans;N2;2,00%;12.5;6.7;Unknown;S;22529848
+Rapamycin;53123-88-9;Caenorhabditis elegans;N2;2,00%;19;6.7;Unknown;S;22560223
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2,00%;12.6;13;Female;S;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2,00%;25.8;-5.2;Male;S;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2,00%;6.2;-5.2;Male;NS;22653297
+Curcumin;458-37-7;Drosophila melanogaster;Oregon R;2,00%;15.5;-1.9;Female;S;22653297
+Simvastatin;79902-63-9;Drosophila melanogaster;unknown;2,00%;25;6.7;Unknown;S;22737247
+3,4-dihydroxybenzaldehyde;139-85-5;Drosophila melanogaster;yw (y1w67c23);2,00%;13;6.7;Female;S;22809229
+3,4-dihydroxybenzaldehyde;139-85-5;Drosophila melanogaster;yw (y1w67c23);2,00%;23;6.7;Female;S;22809229
+Tyrosol;501-94-0;Caenorhabditis elegans;fer-15(b26);2,00%;19.1;10.8;Unknown;S;22824366
+D-chiro-inositol;87-89-8;Drosophila melanogaster;Canton S;2,00%;16.6;6.7;Male;S;22843669
+Pinitol;484-68-4;Drosophila melanogaster;Canton S;2,00%;12.5;6.7;Female;S;22843669
+D-chiro-inositol;87-89-8;Drosophila melanogaster;Canton S;2,00%;15;6.7;Female;S;22843669
+Pinitol;484-68-4;Drosophila melanogaster;Canton S;2,00%;8.7;6.7;Male;S;22843669
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;1.5;6.7;Male;NS;22844336
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;2.2;6.7;Male;NS;22844336
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;3.7;6.7;Male;NS;22844336
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;17.6;6.7;Female;S;22844336
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;15.3;6.7;Female;S;22844336
+Cynomorium songaricum Rupr,;unknown;Drosophila melanogaster;Canton S;2,00%;11.4;6.7;Female;S;22844336
+Cranberry extract;unknown;Caenorhabditis elegans;N2;2,00%;32.5;6.7;Unknown;S;22864793
+Salicylic acid;69-72-7;Caenorhabditis elegans;N2;2,00%;13.9;6.7;Unknown;S;22866967
+Aspirin;50-78-2;Caenorhabditis elegans;N2;2,00%;23;6.7;Unknown;S;22866967
+Aspirin;50-78-2;Caenorhabditis elegans;N2;2,00%;20.9;6.7;Unknown;S;22866967
+Resveratrol;501-36-0;Apis mellifera;unknown;2,00%;38;6.7;Unknown;S;22868943
+Black rice extract;unknown;Drosophila melanogaster;Oregon R;2,00%;14;6.7;Unknown;S;22930061
+Sevelamer;52757-95-6;Drosophila melanogaster;yw;1,00%;16;6.7;Male;S;22942172
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;5.2;6.7;Unknown;S;22950425
+Quinic acid;77-95-2;Caenorhabditis elegans;N2;2,00%;3.2;6.7;Unknown;S;22950425
+Quinic acid;77-95-2;Caenorhabditis elegans;N2;2,00%;6.9;6.7;Unknown;S;22950425
+Quinic acid;77-95-2;Caenorhabditis elegans;N2;2,00%;2.2;6.7;Unknown;NS;22950425
+Quinic acid;77-95-2;Caenorhabditis elegans;N2;2,00%;-3.6;6.7;Unknown;NS;22950425
+Resveratrol;501-36-0;Nothobranchius guentheri;TZ 97-2;2,00%;13;23;Female;S;22960591
+Resveratrol;501-36-0;Nothobranchius guentheri;TZ 97-2;2,00%;23;32;Male;S;22960591
+Apple;unknown;Saccharomyces cerevisiae;MCY4/KlLSM4::kanMX4;2,00%;78.5;6.7;Unknown;NS;22970337
+Apple flesh;unknown;Saccharomyces cerevisiae;MCY4/KlLSM4::kanMX4;2,00%;7;6.7;Unknown;NS;22970337
+Apple peal;unknown;Saccharomyces cerevisiae;MCY4/KlLSM4::kanMX4;2,00%;28.5;6.7;Unknown;NS;22970337
+4-hydroxy-E-globularinin;unknown;Caenorhabditis elegans;N2;2,00%;6.4;6.7;Unknown;S;23000058
+4-hydroxy-E-globularinin;unknown;Caenorhabditis elegans;N2;2,00%;8.1;6.7;Unknown;S;23000058
+4-hydroxy-E-globularinin;unknown;Caenorhabditis elegans;N2;2,00%;18.8;6.7;Unknown;S;23000058
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;-9.1;6.7;Unknown;NS;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;-10.9;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;4.2;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;-6.3;6.7;Unknown;NS;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;8.3;6.7;Unknown;S;23044027
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;12.5;6.7;Unknown;S;23044027
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-23.4;6.7;Female;NS;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-10.2;6.7;Male;NS;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;25;20.2;Unknown;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-17;3;Female;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-8.2;25;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;25.5;0;Female;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;49;49;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;16.3;25;Male;S;23063786
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;46.8;38;Female;S;23063786
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-66;6.7;Female;S;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-7;6.7;Female;S;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-22;6.7;Female;S;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-3;6.7;Female;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-6;6.7;Male;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;0;6.7;Female;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-4;6.7;Male;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;-31;6.7;Male;S;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;0;6.7;Male;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;4;6.7;Male;NS;23077661
+Metformin;657-24-9;Drosophila melanogaster;Dahomey;2,00%;7;6.7;Male;NS;23077661
+Freeze dried royal jelly;unknown;Drosophila melanogaster;Oregon R;2,00%;8.5;-4;Male;S;23132575
+Minocycline;10118-90-8;Drosophila melanogaster;Oregon R;2,00%;50;25;Unknown;S;23185716
+Minocycline;10118-90-8;Drosophila melanogaster;Oregon R;2,00%;50;66;Unknown;S;23185716
+Resveratrol;501-36-0;Nothobranchius guentheri;unknown;2,00%;42.9;17;Unknown;S;23220248
+Sesame;unknown;Drosophila melanogaster;Oregon R;2,00%;12;6.7;Male;S;23291977
+Dimethyl formamide;68-12-2;Caenorhabditis elegans;N2;75%;33;54;Unknown;S;23313473
+Metoprolol;51384-51-1;Mus musculus;C3B6F1;2,00%;10;6.7;Male;S;23314750
+Nebivolol;99200-09-06;Mus musculus;C3B6F1;2,00%;6.4;6.7;Male;S;23314750
+Baicalein;491-67-8;Caenorhabditis elegans;N2;2,00%;45;24;Unknown;O;23339711
+Omega-6;unknown;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;23392608
+DhHP-6;unknown;Caenorhabditis elegans;N2;2,00%;19.1;6.7;Unknown;S;23410029
+MAHMA-NONOate;146724-86-9;Caenorhabditis elegans;N2;2,00%;14.1;6.7;Unknown;S;23415229
+DETA NONOate;146724-94-9;Caenorhabditis elegans;N2;2,00%;8.9;6.7;Unknown;S;23415229
+Nolinospiroside F;unknown;Saccharomyces cerevisiae;K6001;2,00%;21.3;6.7;Unknown;S;23439553
+Nolinospiroside F;unknown;Saccharomyces cerevisiae;K6001;2,00%;19;6.7;Unknown;S;23439553
+Nolinospiroside F;unknown;Saccharomyces cerevisiae;K6001;2,00%;22.6;6.7;Unknown;S;23439553
+Resveratrol;501-36-0;Saccharomyces cerevisiae;K6001;2,00%;17.4;6.7;Unknown;S;23439553
+Malate;149-61-1;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;23472183
+Fumarate;142-42-7;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;23472183
+Aspirin;50-78-2;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;23485446
+Ascr#3;unknown;Caenorhabditis elegans;N2;2,00%;21;6.7;Unknown;S;23509272
+Ascr#2;unknown;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;23509272
+Huperzine A;102518-79-6;Caenorhabditis elegans;N2;2,00%;13.8;6.7;Unknown;S;23523941
+Platycladus orientalis seed extract;unknown;Caenorhabditis elegans;N2;2,00%;26.5;6.7;Unknown;S;23523941
+Fish oil;unknown;Caenorhabditis elegans;N2;2,00%;-12.8;6.7;Unknown;S;23526170
+Fish oil;unknown;Caenorhabditis elegans;N2;2,00%;8.9;6.7;Unknown;NS;23526170
+Fish oil;unknown;Caenorhabditis elegans;N2;2,00%;9.6;6.7;Unknown;S;23526170
+Arsenite;unknown;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;23534459
+Phenformin;114-86-3;Caenorhabditis elegans;N2;2,00%;29;6.7;Unknown;S;23540700
+Wortmannin;19545-26-7;Caenorhabditis elegans;N2;2,00%;-4.1;6.7;Unknown;S;23543623
+Pictilisib;957054-30-7;Caenorhabditis elegans;N2;2,00%;9.6;6.7;Unknown;S;23543623
+Phosphatidylinositol ether lipid analogue 6;unknown;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;23543623
+Phosphatidylinositol ether lipid analogue 24;unknown;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;23543623
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;-0.4;6.7;Unknown;NS;23600385
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;-4;6.7;Unknown;NS;23600385
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;0.5;6.7;Unknown;NS;23600385
+Clofibrate;637-07-0;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;23603800
+Bezafibrate;41859-67-0;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;23603800
+Fenofibrate;49562-28-9;Caenorhabditis elegans;N2;2,00%;19;6.7;Unknown;S;23603800
+Curcumin;458-37-7;Drosophila melanogaster;Wild 1-A;2,00%;20.3;6.7;Unknown;S;23675008
+Rapamycin;53123-88-9;Mus musculus;C57BL/6;2,00%;4.8;6.7;Female;S;23682161
+Chloramphenicol;56-75-7;Caenorhabditis elegans;N2;2,00%;15.8;6.7;Unknown;S;23698443
+Doxycycline;564-25-0;Caenorhabditis elegans;N2;2,00%;36.48;6.7;Unknown;S;23698443
+Doxycycline;564-25-0;Caenorhabditis elegans;SJ4101;2,00%;12.1;6.7;Unknown;S;23698443
+Doxycycline;564-25-0;Caenorhabditis elegans;SJ4101;2,00%;23.7;6.7;Unknown;S;23698443
+Doxycycline;564-25-0;Caenorhabditis elegans;SJ4101;2,00%;25.4;6.7;Unknown;S;23698443
+Doxycycline;564-25-0;Caenorhabditis elegans;N2;2,00%;17.6;6.7;Unknown;S;23698443
+Ethidium bromide;1239-45-8;Caenorhabditis elegans;N2;2,00%;30.1;6.7;Unknown;S;23698443
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;11.3;6.7;Unknown;S;23698443
+Rapamycin;53123-88-9;Caenorhabditis elegans;N2;2,00%;20.6;6.7;Unknown;S;23698443
+Rapamycin;53123-88-9;Caenorhabditis elegans;N2;2,00%;16.2;6.7;Unknown;S;23698443
+Rhodiola rosea root extract;unknown;Drosophila melanogaster;w1118;2,00%;36;6.7;Male;S;23704949
+Rhodiola rosea root extract;unknown;Drosophila melanogaster;w1118;2,00%;40;6.7;Female;S;23704949
+Myricetin;529-44-2;Caenorhabditis elegans;N2;2,00%;32.9;6.7;Unknown;S;23736695
+Protocatechuic acid;99-50-3;Caenorhabditis elegans;N2;2,00%;38.9;40;Unknown;S;23780797
+Protocatechuic acid;99-50-3;Caenorhabditis elegans;N2;2,00%;23;25;Unknown;S;23780797
+Epigallocatechin-3-gallate;989-51-5;Rattus norvegicus;Wistar;2,00%;13;6.7;Unknown;S;23834676
+Whole apple extract;unknown;Caenorhabditis elegans;N2;2,00%;39;25;Unknown;S;23878618
+Metformin;657-24-9;Mus musculus;C57BL/6J;2,00%;5.8;6.7;Male;S;23900241
+Minocycline;10118-90-8;Drosophila melanogaster;Oregon;2,00%;63;6.7;Male;O;23947005
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;17.3;13.8;Unknown;S;23959012
+Electrolyzed reduced water;unknown;Caenorhabditis elegans;N2;2,00%;17.5;10.7;Unknown;S;23959012
+Lutein;127-40-2;Drosophila melanogaster;unknown;2,00%;11.4;6.7;Unknown;S;23993264
+Sulfamethoxazole;723-46-6;Caenorhabditis elegans;N2;2,00%;18;0;Unknown;S;24034891
+Sulfamethoxazole;723-46-6;Caenorhabditis elegans;N2;2,00%;34;0;Unknown;S;24034891
+Sulfamethoxazole;723-46-6;Caenorhabditis elegans;N2;2,00%;28;0;Unknown;S;24034891
+1-methyl nicotinamide;3106-60-3;Caenorhabditis elegans;N2;2,00%;7.7;11;Unknown;S;24077178
+Nicotinamide;98-92-0;Caenorhabditis elegans;N2;2,00%;6.5;6;Unknown;S;24077178
+GYY4137;106740-09-4;Caenorhabditis elegans;N2;2,00%;0.4;6.7;Unknown;NS;24093496
+Pyrrolidine dithiocarbamate;25769-03-03;Drosophila melanogaster;Canton S;2,00%;10;6.7;Male;S;24096697
+Pyrrolidine dithiocarbamate;25769-03-03;Drosophila melanogaster;Canton S;2,00%;12;6.7;Female;S;24096697
+Wortmannin;19545-26-7;Drosophila melanogaster;Canton S;2,00%;5;6.7;Male;S;24096697
+N-(3-(aminomethyl)benzyl)acetamidine;180001-34-7;Drosophila melanogaster;Canton S;2,00%;3;13;Male;S;24096697
+Acanthophora spicifera extract;unknown;Brachionus manjavacas;unknown;2,00%;14;6.7;Unknown;S;24120568
+Jania acutilobum extract;unknown;Brachionus manjavacas;unknown;2,00%;9.1;6.7;Unknown;S;24120568
+Peyssonnelia sp, extract;unknown;Brachionus manjavacas;unknown;2,00%;8.5;6.7;Unknown;S;24120568
+Resveratrol;501-36-0;Daphnia pulex clone TCO;unknown;2,00%;-6.5;6.7;Unknown;NS;24133070
+Resveratrol;501-36-0;Daphnia pulex clone TCO;unknown;2,00%;-32.3;6.7;Unknown;S;24133070
+Resveratrol;501-36-0;Daphnia pulex clone TCO;unknown;2,00%;0;6.7;Unknown;NS;24133070
+(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol;221368-54-3;Caenorhabditis elegans;unknown;2,00%;7;6.7;Unknown;S;24134630
+3,4-dichloroisocoumarin;51050-59-0;Caenorhabditis elegans;unknown;2,00%;13;6.7;Unknown;S;24134630
+AMN082;unknown;Caenorhabditis elegans;unknown;2,00%;8;6.7;Unknown;S;24134630
+4-phenyl-3-furoxancarbonitrile;unknown;Caenorhabditis elegans;unknown;2,00%;30;6.7;Unknown;S;24134630
+7-cyclopentyl-5-(4-phenoxy)phenyl-7H-pyrrolo[2;213743-31-8;Caenorhabditis elegans;unknown;2,00%;11;6.7;Unknown;S;24134630
+Amperozide hydrochloride;75529-73-6;Caenorhabditis elegans;unknown;2,00%;38;6.7;Unknown;S;24134630
+Amoxapine;14028-44-5;Caenorhabditis elegans;unknown;2,00%;33;6.7;Unknown;S;24134630
+BRL 15572;193611-72-2;Caenorhabditis elegans;unknown;2,00%;10;6.7;Unknown;S;24134630
+Beta-Estradiol;50-28-2;Caenorhabditis elegans;unknown;2,00%;7;6.7;Unknown;S;24134630
+BRL 50481;433695-36-4;Caenorhabditis elegans;unknown;2,00%;18;6.7;Unknown;S;24134630
+Chlorprothixene hydrochloride;6469-93-8;Caenorhabditis elegans;unknown;2,00%;33;6.7;Unknown;S;24134630
+Cis-(Z)-Flupenthixol dihydrochloride;2413-38-9;Caenorhabditis elegans;unknown;2,00%;30;6.7;Unknown;S;24134630
+Cinnarizine;298-57-7;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Cortexolone maleate;unknown;Caenorhabditis elegans;unknown;2,00%;11;6.7;Unknown;S;24134630
+BTCP hydrochloride;unknown;Caenorhabditis elegans;unknown;2,00%;14;6.7;Unknown;S;24134630
+Cyclosporin A;59865-13-3;Caenorhabditis elegans;unknown;2,00%;18;6.7;Unknown;S;24134630
+Danazol;17230-88-5;Caenorhabditis elegans;unknown;2,00%;13;6.7;Unknown;S;24134630
+Cyproterone acetate;427-51-0;Caenorhabditis elegans;unknown;2,00%;23;6.7;Unknown;S;24134630
+DAPH;145915-58-8;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Dihydroergotamine methanesulfonate;6190-39-2;Caenorhabditis elegans;unknown;2,00%;24;6.7;Unknown;S;24134630
+Demeclocycline hydrochloride;64-73-3;Caenorhabditis elegans;unknown;2,00%;16;6.7;Unknown;S;24134630
+Dihydroergocristine methanesulfonate;24730-10-7;Caenorhabditis elegans;unknown;2,00%;34;6.7;Unknown;S;24134630
+Doxazosin mesylate;77883-43-3;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Doxycycline hydrochloride;10592-13-9;Caenorhabditis elegans;unknown;2,00%;18;6.7;Unknown;S;24134630
+Eliprodil;119431-25-3;Caenorhabditis elegans;unknown;2,00%;16;6.7;Unknown;S;24134630
+Guanfacine hydrochloride;29110-48-3;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Guanabenz acetate;23256-50-0;Caenorhabditis elegans;unknown;2,00%;12;6.7;Unknown;S;24134630
+Hexahydro-sila-diphenidol;98299-40-2;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Kenpaullone;142273-20-9;Caenorhabditis elegans;unknown;2,00%;27;6.7;Unknown;S;24134630
+Ketanserin tartrate;83846-83-7;Caenorhabditis elegans;unknown;2,00%;13;6.7;Unknown;S;24134630
+LFM-A13;unknown;Caenorhabditis elegans;unknown;2,00%;27;6.7;Unknown;S;24134630
+Loratadine;79794-75-5;Caenorhabditis elegans;unknown;2,00%;18;6.7;Unknown;S;24134630
+Loxapine succinate;27833-64-3;Caenorhabditis elegans;unknown;2,00%;43;6.7;Unknown;S;24134630
+LY-165;1814-64-8;Caenorhabditis elegans;unknown;2,00%;33;6.7;Unknown;S;24134630
+LY-367;unknown;Caenorhabditis elegans;unknown;2,00%;34;6.7;Unknown;S;24134630
+Metergoline;17692-51-2;Caenorhabditis elegans;unknown;2,00%;23;6.7;Unknown;S;24134630
+Mianserin;24219-97-4;Caenorhabditis elegans;unknown;2,00%;32;6.7;Unknown;S;24134630
+Methylergonovine maleate;57432-61-8;Caenorhabditis elegans;unknown;2,00%;28;6.7;Unknown;S;24134630
+Minocycline hydrochloride;13614-98-7;Caenorhabditis elegans;unknown;2,00%;29;6.7;Unknown;S;24134630
+N-(2-[4-(4-chlorophenyl)piperazin-1-yl]ethyl)-3-methoxybenzamide;unknown;Caenorhabditis elegans;unknown;2,00%;35;6.7;Unknown;S;24134630
+Naftopidil dihydrochloride;57149-08-03;Caenorhabditis elegans;unknown;2,00%;14;6.7;Unknown;S;24134630
+Nortriptyline hydrochloride;894-71-3;Caenorhabditis elegans;unknown;2,00%;21;6.7;Unknown;S;24134630
+Octoclothepin maleate;13448-22-1;Caenorhabditis elegans;unknown;2,00%;38;6.7;Unknown;S;24134630
+Oxatomide;60607-34-3;Caenorhabditis elegans;unknown;2,00%;25;6.7;Unknown;S;24134630
+Nicardipine hydrochloride;69441-18-5;Caenorhabditis elegans;unknown;2,00%;23;6.7;Unknown;S;24134630
+Promethazine hydrochloride;58-33-3;Caenorhabditis elegans;unknown;2,00%;32;6.7;Unknown;S;24134630
+Pergolide methanesulfonate;66104-23-2;Caenorhabditis elegans;unknown;2,00%;37;6.7;Unknown;S;24134630
+Nitrendipine;39562-70-4;Caenorhabditis elegans;unknown;2,00%;25;6.7;Unknown;S;24134630
+Quinidine sulfate;6591-63-5;Caenorhabditis elegans;unknown;2,00%;12;6.7;Unknown;S;24134630
+Propionylpromazine hydrochloride;7681-67-6;Caenorhabditis elegans;unknown;2,00%;20;6.7;Unknown;S;24134630
+SU 4312;7/7/5812;Caenorhabditis elegans;unknown;2,00%;5;6.7;Unknown;S;24134630
+Thioridazine hydrochloride;130-61-0;Caenorhabditis elegans;unknown;2,00%;31;6.7;Unknown;S;24134630
+Psora-4;unknown;Caenorhabditis elegans;unknown;2,00%;42;6.7;Unknown;S;24134630
+Trequinsin hydrochloride;78416-81-6;Caenorhabditis elegans;unknown;2,00%;27;6.7;Unknown;S;24134630
+Tyrphostin AG 1478;175178-82-2;Caenorhabditis elegans;unknown;2,00%;11;6.7;Unknown;S;24134630
+Vinpocetine;42971-09-05;Caenorhabditis elegans;unknown;2,00%;15;6.7;Unknown;S;24134630
+Vincristine sulfate;2068-78-2;Caenorhabditis elegans;unknown;2,00%;12;6.7;Unknown;S;24134630
+MPTP;28289-54-5;Caenorhabditis elegans;N2;2,00%;8;6.7;Hermaphrodite;S;24199155
+Piericidin A;2738-64-9;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;S;24199155
+Rotenone;83-79-4;Caenorhabditis elegans;N2;2,00%;10;6.7;Hermaphrodite;S;24199155
+Chicoric acid;6537-80-0;Caenorhabditis elegans;N2;2,00%;21;8;Unknown;S;24244361
+Methylene blue;61-73-4;Mus musculus;UM-HET3;2,00%;0.7;6;Female;S;24245565
+Acarbose;56180-94-0;Mus musculus;UM-HET3;2,00%;5;9;Female;S;24245565
+Acarbose;56180-94-0;Mus musculus;UM-HET3;2,00%;22;11;Male;S;24245565
+GYY4137;106740-09-4;Caenorhabditis elegans;N2;2,00%;20.9;6.7;Unknown;S;24260346
+NT219;1198078-60-2;Caenorhabditis elegans;N2;2,00%;0.16;6.7;Unknown;NS;24261972
+Korean red ginseng tonic;unknown;Drosophila melanogaster;w1118;2,00%;13.5;6.7;Female;S;24265871
+Korean red ginseng tonic;unknown;Drosophila melanogaster;w1118;2,00%;14.5;6.7;Female;S;24265871
+Korean red ginseng tonic;unknown;Drosophila melanogaster;w1118;2,00%;5.7;6.7;Female;NS;24265871
+Vitamin D3;1406-16-2;Caenorhabditis elegans;N2;2,00%;23;6.7;Unknown;S;24304198
+AU701;unknown;Drosophila melanogaster;Canton S;0.3%;1.2;6.7;Male;NS;24305778
+AU701;unknown;Drosophila melanogaster;Canton S;0.3%;11.4;6.7;Female;S;24305778
+CU701;unknown;Drosophila melanogaster;Canton S;0.3%;0;6.7;Male;NS;24305778
+AU701;unknown;Drosophila melanogaster;Canton S;0.3%;-0.7;6.7;Female;NS;24305778
+CU701;unknown;Drosophila melanogaster;Canton S;0.3%;6;6.7;Female;NS;24305778
+CU701;unknown;Drosophila melanogaster;Canton S;0.3%;16.9;6.7;Male;S;24305778
+CU701;unknown;Drosophila melanogaster;Canton S;0.3%;5.4;6.7;Female;S;24305778
+Polydatin;27208-80-6;Caenorhabditis elegans;N2;2,00%;30;6.7;Unknown;S;24305800
+Cranberry extract;unknown;Drosophila melanogaster;Canton S;0.02%;30.1;6.7;Unknown;S;24316039
+Rapamycin;53123-88-9;Caenorhabditis elegans;N2;2,00%;26;34.84;Unknown;S;24332851
+Korean mistletoe extract;unknown;Drosophila melanogaster;Canton S;2,00%;19.9;6.7;Unknown;S;24337961
+Korean mistletoe extract;unknown;Caenorhabditis elegans;N2;2,00%;9.6;6.7;Unknown;S;24337961
+Ludwigia octovalvis extract;unknown;Drosophila melanogaster;Canton S;2,00%;16.1;6.7;Male;S;24338263
+Ludwigia octovalvis extract;unknown;Drosophila melanogaster;Canton S;2,00%;24.2;6.7;Female;S;24338263
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;23;8;Male;S;24341993
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;26;11;Female;S;24341993
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;13;8;Male;S;24341993
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;21;11;Female;S;24341993
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;3;6;Male;NS;24341993
+Rapamycin;53123-88-9;Mus musculus;UM-HET3;2,00%;16;5;Female;S;24341993
+Lithium Chloride;7447-41-8;Caenorhabditis elegans;JK1107 (glp-1);2,00%;11;6.7;Unknown;S;24398558
+Lithium Chloride;7447-41-8;Caenorhabditis elegans;JK1107;2,00%;0.1;0;Unknown;O;24398558
+Glyceollin I;57103-57-8;Saccharomyces cerevisiae;unknown;2,00%;40;6.7;Unknown;S;24399048
+Rapamycin;53123-88-9;Mus musculus;C57BL/6J;2,00%;7;6.7;Male;S;24409289
+Rapamycin;53123-88-9;Mus musculus;C57BL/6J;2,00%;14;6.7;Female;S;24409289
+Celastrol;34157-83-0;Caenorhabditis elegans;N2;2,00%;13.8;6.7;Unknown;S;24416295
+Celastrol;34157-83-0;Caenorhabditis elegans;N2;2,00%;17.4;6.7;Unknown;S;24416295
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;2.4;-6;Male;NS;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;13.6;3.9;Female;S;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;-9.1;-12.2;Female;S;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;6.8;-2.9;Female;NS;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;14.3;6;Male;S;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;-11.9;-16.4;Male;S;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;13.6;3.4;Female;S;24472572
+Rhodiola rosea;unknown;Drosophila melanogaster;IF;2,00%;16.7;6.6;Male;S;24472572
+Sesamin;607-80-7;Caenorhabditis elegans;N2;2,00%;10.5;6.7;Unknown;S;24549958
+Sesamin;607-80-7;Caenorhabditis elegans;N2;2,00%;0.8;6.7;Unknown;NS;24549958
+Sesamin;607-80-7;Caenorhabditis elegans;N2;2,00%;10.9;6.7;Unknown;S;24549958
+Sesamin;607-80-7;Caenorhabditis elegans;N2;2,00%;14.1;6.7;Unknown;S;24549958
+Cranberry extract;unknown;Caenorhabditis elegans;N2;2,00%;12.8;6.7;Unknown;S;24566444
+Cranberry extract;unknown;Caenorhabditis elegans;N2;2,00%;20;6.7;Unknown;S;24566444
+Cranberry extract;unknown;Caenorhabditis elegans;N2;2,00%;14.4;6.7;Unknown;S;24566444
+SRT1720;1001645-58-4;Mus musculus;C57BL/6J;2,00%;8.8;6.7;Male;NS;24582957
+N-acetylglucosamine;72-87-7;Caenorhabditis elegans;N2;2,00%;50;6.7;Unknown;S;24630720
+D-glucosamine;90-77-7;Caenorhabditis elegans;N2;2,00%;11;8;Unknown;S;24714520
+D-glucosamine;90-77-7;Mus musculus;C57BL/6NRj;2,00%;5.6;5.5;Unknown;S;24714520
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-89.5;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-82.8;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-11.6;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-24.4;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-13.6;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;7.7;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;8.7;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;16.9;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;17.2;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;19.6;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;21.6;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;-40.9;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;10.8;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;36.7;6.7;Unknown;S;24764514
+Caffeine;58-08-2;Caenorhabditis elegans;N2;2,00%;28.5;6.7;Unknown;S;24764514
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;N2;2,00%;29.4;6.7;Unknown;S;24828042
+Glycerol;56-81-5;Brachionus manjavacas;unknown;2,00%;51;6.7;Unknown;S;24835191
+Beta-caryophyllene;87-44-5;Caenorhabditis elegans;N2;2,00%;11.2;6.7;Unknown;S;24835194
+Beta-caryophyllene;87-44-5;Caenorhabditis elegans;N2;2,00%;22.2;6.7;Unknown;S;24835194
+Beta-caryophyllene;87-44-5;Caenorhabditis elegans;N2;2,00%;14.9;6.7;Unknown;S;24835194
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;6.3;6.7;Unknown;NS;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;29.7;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;9.4;6.7;Unknown;NS;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;30.6;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;44;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;47.4;6.7;Unknown;S;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;-4.7;6.7;Unknown;NS;24889636
+Metformin;657-24-9;Caenorhabditis elegans;N2;2,00%;57.3;6.7;Unknown;S;24889636
+Fluvastatin;93957-54-1;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;24923838
+Fluvastatin;93957-54-1;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;24923838
+Huanshao dan;unknown;Caenorhabditis elegans;N2;2,00%;38.3;6.7;Unknown;S;24952637
+Erchen wan;unknown;Caenorhabditis elegans;N2;2,00%;21.8;6.7;Unknown;NS;24952637
+Liuwei dihuang wan;unknown;Caenorhabditis elegans;N2;2,00%;12.6;6.7;Unknown;S;24952637
+Shengmai yin;unknown;Caenorhabditis elegans;N2;2,00%;47.3;6.7;Unknown;S;24952637
+Shiquan dabu wan;unknown;Caenorhabditis elegans;N2;2,00%;14.5;6.7;Unknown;S;24952637
+Caffeic acid phenethylester;104594-70-9;Caenorhabditis elegans;unknown;2,00%;9;17;Unknown;S;24964141
+Emblica officinalis;90028-28-7;Drosophila melanogaster;unknown;2,00%;5.9;6.7;Unknown;S;24967413
+Turmeric powder;unknown;Drosophila melanogaster;unknown;2,00%;17.6;6.7;Unknown;S;24967413
+Turmeric powder;unknown;Drosophila melanogaster;unknown;2,00%;2.9;6.7;Unknown;S;24967413
+Green tea polyphenols;unknown;Drosophila melanogaster;w1118;2,00%;19;6.7;Male;S;25058464
+D-beta-hydroxybutyrate;625-72-9;Caenorhabditis elegans;N2;2,00%;26;6.7;Unknown;S;25127866
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;3;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;-1;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;9;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;4;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;2;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;19;6.7;Male;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;34;6.7;Female;O;25173182
+Curcumin;458-37-7;Drosophila melanogaster;Canton S;2,00%;6;6.7;Female;O;25173182
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;NS;25186652
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;19.6;6.7;Unknown;S;25186652
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;22.8;6.7;Unknown;S;25186652
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;20.7;6.7;Unknown;S;25186652
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;30.8;6.7;Unknown;S;25186652
+Astragalus polysaccharide;89250-26-0;Caenorhabditis elegans;N2;2,00%;24.7;6.7;Unknown;S;25186652
+Bis(1-hydroxy-2;30538-92-2;Aeolosoma viride;unknown;2,00%;98.6;6.7;Unknown;S;25190068
+Bis(1-hydroxy-2;30538-92-2;Aeolosoma viride;unknown;2,00%;157.3;6.7;Unknown;S;25190068
+EUK-134;81065-76-1;Aeolosoma viride;unknown;2,00%;48.8;6.7;Unknown;S;25190068
+EUK-134;81065-76-1;Aeolosoma viride;unknown;2,00%;20.2;6.7;Unknown;S;25190068
+EUK-134;81065-76-1;Aeolosoma viride;unknown;2,00%;26.4;6.7;Unknown;S;25190068
+Mulberry leaf polyphenols;unknown;Caenorhabditis elegans;N2;2,00%;22.5;6.7;Unknown;S;25323576
+Acanthopanax sessiliflorus stem extract;unknown;Caenorhabditis elegans;N2;2,00%;18;20;Unknown;S;25324932
+Nordihydroguaiaretic acid;500-38-9;Mus musculus;B6C3F1;2,00%;12;6.7;Male;S;25380600
+Nordihydroguaiaretic acid;500-38-9;Mus musculus;B6C3F1;2,00%;-1;6.7;Male;NS;25380600
+Nordihydroguaiaretic acid;500-38-9;Mus musculus;B6C3F1;2,00%;7.7;6.7;Male;NS;25380600
+Nordihydroguaiaretic acid;500-38-9;Drosophila melanogaster;Oregon-R-C;2,00%;23;6.7;Unknown;S;25380600
+Nordihydroguaiaretic acid;500-38-9;Mus musculus;B6C3F1;2,00%;1.2;6.7;Male;NS;25380600
+Myriocin;35891-70-4;Caenorhabditis elegans;N2;2,00%;31.25;26.06;Unknown;S;25437839
+C75;218137-86-1;Caenorhabditis elegans;N2;2,00%;-6.25;-4.34;Unknown;S;25437839
+D-Erythro-MAPP;60847-25-8;Caenorhabditis elegans;N2;2,00%;-6.25;-4.34;Unknown;S;25437839
+PDMP;73257-80-4;Caenorhabditis elegans;N2;2,00%;37.5;39.13;Unknown;S;25437839
+D609;83373-60-8;Caenorhabditis elegans;N2;2,00%;25;26.08;Unknown;S;25437839
+G109;163972-12-1;Caenorhabditis elegans;N2;2,00%;6.25;-8.69;Unknown;S;25437839
+Royalactin;unknown;Caenorhabditis elegans;N2;2,00%;26.8;6.7;Unknown;S;25456847
+Royalactin;unknown;Caenorhabditis elegans;N2;2,00%;29.1;6.7;Unknown;S;25456847
+Royalactin;unknown;Caenorhabditis elegans;N2;2,00%;33.9;6.7;Unknown;S;25456847
+Cinnamon Extract;unknown;Drosophila melanogaster;w1118;2,00%;37;6.7;Female;S;25456850
+Cinnamon Extract;unknown;Drosophila melanogaster;w1118;2,00%;17;6.7;Male;S;25456850
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;4.63;6.7;Hermaphrodite;S;25521617
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;9.67;6.7;Hermaphrodite;S;25521617
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;7.13;6.7;Hermaphrodite;S;25521617
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;10.51;6.7;Hermaphrodite;S;25521617
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;7.39;6.7;Hermaphrodite;NS;25521617
+Ibuprofen;15687-27-1;Caenorhabditis elegans;N2;2,00%;6.96;6.7;Hermaphrodite;S;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;1.02;6.7;Male;NS;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;9.65;6.7;Male;NS;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;3.69;6.7;Male;NS;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;4.07;6.7;Female;NS;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;9.75;6.7;Female;S;25521617
+Ibuprofen;15687-27-1;Drosophila melanogaster;Canton-S;2,00%;0.17;6.7;Female;NS;25521617
+Edetate Calcium Disodium;23411-34-9;Caenorhabditis elegans;N2;2,00%;21.4;6.7;Unknown;S;25554795
+Dibromoacetic acid;631-64-1;Caenorhabditis elegans;N2;2,00%;14.6;6.7;Unknown;S;25556763
+N-nitrosodimethylamine;62-75-9;Caenorhabditis elegans;N2;2,00%;5.5;6.7;Unknown;S;25556763
+Pomegrenate juice;unknown;Drosophila melanogaster;Canton S;0.1%;8;6.7;Female;S;25566518
+Pomegrenate juice;unknown;Drosophila melanogaster;Canton S;0.1%;18;6.7;Male;S;25566518
+Resveratrol;501-36-0;Nothobranchius guentheri;TZ 97-2;2,00%;14;6.7;Female;S;25569124
+Resveratrol;501-36-0;Nothobranchius guentheri;TZ 97-2;2,00%;19;6.7;Male;S;25569124
+Ivabradine;155974-00-8;Mus musculus;C57BL/6J;2,00%;6.2;6.7;Male;S;25589054
+Genistein;446-72-0;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25593647
+Genistein;446-72-0;Caenorhabditis elegans;N2;2,00%;27.9;6.7;Unknown;S;25593647
+Specioside;72514-90-0;Caenorhabditis elegans;N2;2,00%;15.5;6.7;Unknown;S;25619942
+Specioside;72514-90-0;Caenorhabditis elegans;N2;2,00%;11.8;6.7;Unknown;S;25619942
+Specioside;72514-90-0;Caenorhabditis elegans;N2;2,00%;8.9;6.7;Unknown;S;25619942
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;15.5;10.4;Female;S;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;1;5.1;Female;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;5.7;3.1;Male;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;5.3;4.7;Female;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;16.8;14;Male;S;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;3.2;2.9;Male;NS;25628774
+Proanthocyanidins from Kunlun Chrysanthemum flowers;unknown;Drosophila melanogaster;Oregon R+;2,00%;13.9;8.9;Male;S;25628774
+Agmatine;306-60-5;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Agmatine;306-60-5;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+Agmatine;306-60-5;Caenorhabditis elegans;N2;2,00%;-20;6.7;Unknown;S;25643626
+Alanine;302-72-7;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;25643626
+Alanine;302-72-7;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Alanine;302-72-7;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;NS;25643626
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Arginine;74-79-3;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;S;25643626
+Arginine;74-79-3;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;S;25643626
+Asparagine;70-47-3;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Asparagine;70-47-3;Caenorhabditis elegans;N2;2,00%;-25;6.7;Unknown;S;25643626
+Asparagine;70-47-3;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;S;25643626
+Beta-alanine;107-95-9;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;NS;25643626
+Beta-alanine;107-95-9;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;25643626
+Caprylate;74-81-7;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Caprylate;74-81-7;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;S;25643626
+Arginine;74-79-3;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Caprylate;74-81-7;Caenorhabditis elegans;N2;2,00%;-18;6.7;Unknown;S;25643626
+Caprylate;74-81-7;Caenorhabditis elegans;N2;2,00%;-5;6.7;Unknown;S;25643626
+Citrate;126-44-3;Caenorhabditis elegans;N2;2,00%;-2;6.7;Unknown;NS;25643626
+Carnosine;305-84-0;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;S;25643626
+Carnosine;305-84-0;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Betaine;107-43-7;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Creatine;57-00-1;Caenorhabditis elegans;N2;2,00%;-20;6.7;Unknown;S;25643626
+Creatine;57-00-1;Caenorhabditis elegans;N2;2,00%;-4;6.7;Unknown;S;25643626
+Creatine;57-00-1;Caenorhabditis elegans;N2;2,00%;-18;6.7;Unknown;S;25643626
+Cysteine;52-90-4;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Cysteine;52-90-4;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+Carnosine;305-84-0;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Cysteine;52-90-4;Caenorhabditis elegans;N2;2,00%;2;6.7;Unknown;NS;25643626
+D-alanine;338-69-2;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+D-alanine;338-69-2;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+D-aspartate;1783-96-6;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;NS;25643626
+D-aspartate;1783-96-6;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+D-glutamate;6893-26-1;Caenorhabditis elegans;N2;2,00%;-3;6.7;Unknown;NS;25643626
+D-aspartate;1783-96-6;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;25643626
+D-glutamate;6893-26-1;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+D-glutamate;6893-26-1;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;25643626
+DL-isocitrate;unknown;Caenorhabditis elegans;N2;2,00%;-28;6.7;Unknown;S;25643626
+DL-isocitrate;unknown;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+DL-isocitrate;unknown;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;25643626
+DL-lactate;113-21-3;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Galactose;10257-28-0;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+DL-lactate;113-21-3;Caenorhabditis elegans;N2;2,00%;2;6.7;Unknown;NS;25643626
+Galactose;10257-28-0;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+DL-lactate;113-21-3;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+Gluconate;133-42-6;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;25643626
+Gluconate;133-42-6;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+Gluconate;133-42-6;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Glutamate;25513-46-6;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+Glutamate;25513-46-6;Caenorhabditis elegans;N2;2,00%;-8;6.7;Unknown;S;25643626
+Glutamine;56-85-9;Caenorhabditis elegans;N2;2,00%;15;6.7;Unknown;S;25643626
+Glutamate;25513-46-6;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Glutamine;56-85-9;Caenorhabditis elegans;N2;2,00%;-6;6.7;Unknown;S;25643626
+Glycerol;56-81-5;Caenorhabditis elegans;N2;2,00%;21;6.7;Unknown;S;25643626
+Glutamine;56-85-9;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+Glycine;56-40-6;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+Glycine;56-40-6;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Glycine;56-40-6;Caenorhabditis elegans;N2;2,00%;-4;6.7;Unknown;NS;25643626
+Histidine;71-00-1;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Histidine;71-00-1;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;25643626
+Histidine;71-00-1;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Histidine;71-00-1;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;25643626
+Homocysteine;454-29-5;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;S;25643626
+Inositol;87-89-8;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;S;25643626
+Inositol;87-89-8;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;25643626
+Isoleucine;73-32-5;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+Leucine;61-90-5;Caenorhabditis elegans;N2;2,00%;16;6.7;Unknown;S;25643626
+Isoleucine;73-32-5;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;S;25643626
+Leucine;61-90-5;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Leucine;61-90-5;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;S;25643626
+L-histidine methyl ester;1499-46-3;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+L-histidine methyl ester;1499-46-3;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Homocysteine;454-29-5;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;S;25643626
+L-histidine methyl ester;1499-46-3;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;25643626
+L-theanine;3081-61-6;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+L-theanine;3081-61-6;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+L-theanine;3081-61-6;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Lysine;56-87-1;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+L-theanine;3081-61-6;Caenorhabditis elegans;N2;2,00%;-15;6.7;Unknown;S;25643626
+Lysine;56-87-1;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Lysine;56-87-1;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;S;25643626
+Methionine;63-68-3;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Methionine;63-68-3;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;25643626
+N-acetyl-l-histidine;1/2/2497;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+N-acetyl-l-histidine;1/2/2497;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;NS;25643626
+Ornithine;70-26-8;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+Ornithine;70-26-8;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Ornithine;70-26-8;Caenorhabditis elegans;N2;2,00%;-10;6.7;Unknown;S;25643626
+Methionine;63-68-3;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+N-acetyl-l-histidine;1/2/2497;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;25643626
+Phosphoenolpyruvate;0138-08-09;Caenorhabditis elegans;N2;2,00%;12;6.7;Unknown;S;25643626
+Phosphoenolpyruvate;0138-08-09;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Picolinic acid;98-98-6;Caenorhabditis elegans;N2;2,00%;7;6.7;Unknown;S;25643626
+Proline;37159-97-0;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;25643626
+Proline;37159-97-0;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Proline;37159-97-0;Caenorhabditis elegans;N2;2,00%;19;6.7;Unknown;S;25643626
+Putrescine;110-60-1;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Putrescine;110-60-1;Caenorhabditis elegans;N2;2,00%;-13;6.7;Unknown;S;25643626
+Ribose;10257-32-6;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Putrescine;110-60-1;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Proline;37159-97-0;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;25643626
+Serine;56-45-1;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Ribose;10257-32-6;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Serine;56-45-1;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Serine;56-45-1;Caenorhabditis elegans;N2;2,00%;18;6.7;Unknown;S;25643626
+Succinate;56-14-4;Caenorhabditis elegans;N2;2,00%;4;6.7;Unknown;NS;25643626
+Serine;56-45-1;Caenorhabditis elegans;N2;2,00%;22;6.7;Unknown;S;25643626
+Succinate;56-14-4;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Succinate;56-14-4;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Taurine;107-35-7;Caenorhabditis elegans;N2;2,00%;11;6.7;Unknown;S;25643626
+Taurine;107-35-7;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Taurine;107-35-7;Caenorhabditis elegans;N2;2,00%;-4;6.7;Unknown;S;25643626
+Threonine;72-19-5;Caenorhabditis elegans;N2;2,00%;3;6.7;Unknown;NS;25643626
+Tryptophan;73-22-3;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;25643626
+Threonine;72-19-5;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Threonine;72-19-5;Caenorhabditis elegans;N2;2,00%;0;6.7;Unknown;S;25643626
+Tryptophan;73-22-3;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Tryptophan;73-22-3;Caenorhabditis elegans;N2;2,00%;9;6.7;Unknown;S;25643626
+Tyrosine;60-18-4;Caenorhabditis elegans;N2;2,00%;2;6.7;Unknown;NS;25643626
+Tryptophan;73-22-3;Caenorhabditis elegans;N2;2,00%;1;6.7;Unknown;NS;25643626
+Tyrosine;60-18-4;Caenorhabditis elegans;N2;2,00%;10;6.7;Unknown;S;25643626
+Tyrosine;60-18-4;Caenorhabditis elegans;N2;2,00%;5;6.7;Unknown;S;25643626
+Valine;72-18-4;Caenorhabditis elegans;N2;2,00%;13;6.7;Unknown;NS;25643626
+Valine;72-18-4;Caenorhabditis elegans;N2;2,00%;8;6.7;Unknown;S;25643626
+Xylose;50855-32-8;Caenorhabditis elegans;N2;2,00%;6;6.7;Unknown;S;25643626
+Valine;72-18-4;Caenorhabditis elegans;N2;2,00%;-1;6.7;Unknown;S;25643626
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;42.6;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;34.8;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;37.9;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;43.4;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;49.2;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;45.3;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;50.8;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;55.8;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;45.4;6.7;Unknown;S;25720500
+Rifampicin;13292-46-1;Caenorhabditis elegans;N2;2,00%;56.1;6.7;Unknown;S;25720500
+Rifamycin SV;6998-60-3;Caenorhabditis elegans;N2;2,00%;20.9;6.7;Unknown;S;25720500
+10-hydroxy-2-decenoic Acid;0765-01-05;Caenorhabditis elegans;N2;2,00%;10;14;Unknown;S;25789174
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;49;6.7;Female;S;25833406
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;67;6.7;Male;S;25833406
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;77;6.7;Male;S;25833406
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;52;6.7;Female;S;25833406
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;134;6.7;Unknown;S;25833406
+Metformin;657-24-9;Acheta domesticus;unknown;2,00%;39;6.7;Male;S;25833406
+Metformin;657-24-9;Acheta domesticus;unknown;2,00%;79;6.7;Unknown;S;25833406
+Aspirin;50-78-2;Acheta domesticus;unknown;2,00%;111;6.7;Unknown;S;25833406
+Resveratrol;501-36-0;Anopheles stephensi;unknown;2,00%;-5.74;-6.89;Female;S;25848933
+Resveratrol;501-36-0;Anopheles stephensi;unknown;2,00%;6.88;-6.11;Female;NS;25848933
+Resveratrol;501-36-0;Anopheles stephensi;unknown;2,00%;2.92;-12.28;Female;NS;25848933
+Garlic extract;539-86-6;Caenorhabditis elegans;N2;2,00%;21;6.7;Unknown;S;25940980
+Recombinant buckwheat trypsin inhibitor;unknown;Caenorhabditis elegans;N2;2,00%;15.6;6.7;Unknown;S;25959406
+Curcumin;458-37-7;Caenorhabditis elegans;N2;2,00%;22.5;6.7;Unknown;S;25959406
+Recombinant buckwheat trypsin inhibitor;unknown;Caenorhabditis elegans;N2;2,00%;7.5;6.7;Unknown;S;25959406
+Soybean trypsin inhibitor;unknown;Caenorhabditis elegans;N2;2,00%;8.7;6.7;Unknown;S;25959406
+Recombinant buckwheat trypsin inhibitor;unknown;Caenorhabditis elegans;N2;2,00%;23.7;6.7;Unknown;S;25959406
+Soybean trypsin inhibitor;unknown;Caenorhabditis elegans;N2;2,00%;10.4;6.7;Unknown;S;25959406
+Dehydroabietic acid;1740-19-8;Caenorhabditis elegans;N2;2,00%;4.8;8.3;Unknown;NS;25976661
+Dehydroabietic acid;1740-19-8;Caenorhabditis elegans;N2;2,00%;10.3;16.7;Unknown;S;25976661
+Dehydroabietic acid;1740-19-8;Caenorhabditis elegans;N2;2,00%;11.8;18.1;Unknown;S;25976661
+Dehydroabietic acid;1740-19-8;Caenorhabditis elegans;N2;2,00%;12.8;20;Unknown;S;25976661
+Dehydroabietic acid;1740-19-8;Caenorhabditis elegans;N2;2,00%;15.5;16.7;Unknown;S;25976661
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;12.8;9.1;Unknown;S;25976661
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;15.4;14.3;Unknown;S;25976661
+Resveratrol;501-36-0;Caenorhabditis elegans;N2;2,00%;6.3;9.1;Unknown;NS;25976661
+Echinacoside;82854-37-3;Caenorhabditis elegans;N2;2,00%;7.6;6.7;Unknown;S;26027643
+Echinacoside;82854-37-3;Caenorhabditis elegans;N2;2,00%;15.82;6.7;Unknown;S;26027643
+Echinacoside;82854-37-3;Caenorhabditis elegans;N2;2,00%;9.47;6.7;Unknown;S;26027643
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;5.2;9.5;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;6.1;9.5;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;27.1;23.5;Unknown;S;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;14.6;19;Unknown;NS;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;28.1;17.6;Unknown;S;26039957
+N-acetyl-L-cysteine;616-91-1;Caenorhabditis elegans;N2 CGCb strain;2,00%;30.5;47.1;Unknown;S;26039957
+Otophylloside B;unknown;Caenorhabditis elegans;N2;2,00%;30;6.7;Unknown;S;26112394
+Trametinib;871700-17-3;Drosophila melanogaster;white Dahomey;2,00%;12;6.7;Unknown;S;26119340
+Beta-Guanidinopropionic acid;0353-09-03;Drosophila melanogaster;w1118;2,00%;9.1;6.7;Male;S;26120775
+Beta-Guanidinopropionic acid;0353-09-03;Drosophila melanogaster;w1118;2,00%;13.3;6.7;Female;S;26120775
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;25.5;0;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-17;-3;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;-23.4;6.7;Female;S;26136617
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;14.6;9.1;Female;S;26136617
+Sodium butyrate;156-54-7;Drosophila melanogaster;Ra;2,00%;8.3;12;Female;S;26136617
+Curcumin;458-37-7;Drosophila melanogaster;Ra;2,00%;46.8;38;Female;S;26136617
+(Iso)lappaol A;unknown;Caenorhabditis elegans;N2;2,00%;11.2;6.7;Unknown;S;26141518
+Arctigenin;7770-78-7;Caenorhabditis elegans;N2;2,00%;6.7;6.7;Unknown;S;26141518
+Arctigenin;7770-78-7;Caenorhabditis elegans;N2;2,00%;13.7;6.7;Unknown;S;26141518
+Arctiin;20362-31-6;Caenorhabditis elegans;N2;2,00%;8.9;6.7;Unknown;S;26141518
+Arctiin;20362-31-6;Caenorhabditis elegans;N2;2,00%;15.3;6.7;Unknown;S;26141518
+Lappaol C;64855-00-1;Caenorhabditis elegans;N2;2,00%;11.3;6.7;Unknown;S;26141518
+Matairesinol;580-72-3;Caenorhabditis elegans;N2;2,00%;14;6.7;Unknown;S;26141518
+Matairesinol;580-72-3;Caenorhabditis elegans;N2;2,00%;25;6.7;Unknown;S;26141518
+Lappaol F;69394-17-8;Caenorhabditis elegans;N2;2,00%;12.5;6.7;Unknown;S;26141518
+Lappaol C;64855-00-1;Caenorhabditis elegans;N2;2,00%;11.5;6.7;Unknown;S;26141518
+Icariin;489-32-7;Mus musculus;C57BL/6J;2,00%;8;6;Male;NS;26145038
+Icariin in Epimedium Flavonoid;unknown;Mus musculus;C57BL/6J;2,00%;4;3;Unknown;NS;26145038
+Cranberry anthocyanin extract;unknown;Drosophila melanogaster;Oregon-R-C;2,00%;10.4;5.1;Unknown;S;26159161
+Cranberry anthocyanin extract;unknown;Drosophila melanogaster;Oregon-R-C;2,00%;6.3;0;Unknown;S;26159161
+Verminoside;unknown;Caenorhabditis elegans;N2;2,00%;20.8;6.7;Unknown;S;26189547
+Verminoside;unknown;Caenorhabditis elegans;N2;2,00%;8.5;6.7;Unknown;S;26189547
+Verminoside;unknown;Caenorhabditis elegans;N2;2,00%;9.8;6.7;Unknown;S;26189547
+(R)-2-hydroxyglutarate;13095-47-1;Caenorhabditis elegans;unknown;2,00%;42.9;6.7;Unknown;S;26190651
+Alpha-ketoglutarate;328-50-7;Caenorhabditis elegans;unknown;2,00%;47.9;6.7;Unknown;S;26190651
+(S)-2-hydroxyglutarate;13095-48-2;Caenorhabditis elegans;unknown;2,00%;31.8;6.7;Unknown;S;26190651
+Panax notoginseng main root polysaccharide;unknown;Caenorhabditis elegans;N2;2,00%;21;6.7;Unknown;O;26234580
+Cordyceps sinensis oral liquid;unknown;Drosophila melanogaster;Oregon-K;2,00%;32;15.4;Male;S;26239097
+Mianserin;24219-97-4;Caenorhabditis elegans;N2;2,00%;28.3;46;Unknown;S;26255886
+Fucoxanthin;3351-86-8;Caenorhabditis elegans;N2;2,00%;14;24;Unknown;S;26292053
+Aspirin;50-78-2;Drosophila melanogaster;Canton-S;2,00%;7.7;6.7;Female;S;26305987
+NS-398;123653-11-2;Drosophila melanogaster;Can;2,00%;9.3;6.7;Female;S;26305987
+APHS;209125-28-0;Drosophila melanogaster;Canton-S;2,00%;9.6;6.7;Female;S;26305987
+Aspirin;50-78-2;Drosophila melanogaster;Ca;2,00%;32.7;6.7;Female;S;26305987
+SC-560;188817-13-2;Drosophila melanogaster;Canton-S;2,00%;-6;6.7;Male;S;26305987
+Epigallocatechin-3-gallate;989-51-5;Drosophila melanogaster;unknown;2,00%;15.7;6.7;Unknown;S;26375250
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside;unknown;Caenorhabditis elegans;N2;2,00%;17;6.7;Unknown;S;26433219
+Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside;unknown;Caenorhabditis elegans;N2;2,00%;17.3;6.7;Unknown;S;26433219
