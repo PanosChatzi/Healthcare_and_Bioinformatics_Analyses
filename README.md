@@ -1,6 +1,13 @@
 # Healthcare and Bioinformatics Data Analysis
 This repo contains the final assignments of the Data Analyst bootcamp by Workearly. Here, I used Python and SQL to clean, transform, and analyze healthcare, bioinformatics and finance datasets. I also created clear figures to visualize the findings using matplotlib, seaborn, and plotly.
 
+## Projects
+  1. DrugAge: the impact of nutraceuticals on animal lifespan
+  2. Cancer research analysis
+  3. Longevity gene variant analysis
+  4. Covid testing analysis
+  5. Liquor store sales analysis
+
 ### [1. DrugAge: the impact of nutraceuticals on animal lifespan](./drugage/drugage_analysis.ipynb)
 ![](/drugage/overlayed_bar_and_line_plot.png)
 
